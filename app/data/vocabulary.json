@@ -1,0 +1,4503 @@
+[
+  {
+    "word": "say",
+    "phonetic": "/sei/",
+    "translation": "说, 讲, 念, 说明, 指明；说, 讲；意见, 发言权",
+    "example": "\"This tree is fifty feet high,\" said the gardener.",
+    "exampleTranslation": "“这棵树有五十英尺高，”园丁说。",
+    "id": "word-001",
+    "frequencyRank": 1
+  },
+  {
+    "word": "go",
+    "phonetic": "/gou/",
+    "translation": "去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下；以...打赌, 对付, 忍受, 出产, 为被捕者出(保释金)；去, 尝试, 进行",
+    "example": "Go away!",
+    "exampleTranslation": "走开！",
+    "id": "word-002",
+    "frequencyRank": 2
+  },
+  {
+    "word": "can",
+    "phonetic": "/kæn/",
+    "translation": "装罐；罐头, 容器；能, 可以",
+    "example": "Can you come tomorrow?",
+    "exampleTranslation": "你明天能来吗？",
+    "id": "word-003",
+    "frequencyRank": 3
+  },
+  {
+    "word": "get",
+    "phonetic": "/get/",
+    "translation": "得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上；到达, 成为, 变得；(网球等)救球, 生殖, 幼兽",
+    "example": "Hold the horse while I run and get my cap.",
+    "exampleTranslation": "我去拿帽子的时候，牵着马。",
+    "id": "word-004",
+    "frequencyRank": 4
+  },
+  {
+    "word": "make",
+    "phonetic": "/meik/",
+    "translation": "制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行；开始, 前进, 增大, 被制造, 被处理；制造, 构造, 性情",
+    "example": "We will make this place our home.",
+    "exampleTranslation": "我们将把这个地方当成我们的家。",
+    "id": "word-005",
+    "frequencyRank": 5
+  },
+  {
+    "word": "know",
+    "phonetic": "/nәu/",
+    "translation": "知道, 了解, 认识, 确信",
+    "example": "Everybody knows about hunting.",
+    "exampleTranslation": "每个人都知道狩猎。",
+    "id": "word-006",
+    "frequencyRank": 6
+  },
+  {
+    "word": "will",
+    "phonetic": "/wil/",
+    "translation": "意志, 决心, 意愿, 意向, 干劲, 遗嘱；用意志的力量驱使, 决意, 愿意, 立遗嘱；下决心, 愿意",
+    "example": "The sun will shine.",
+    "exampleTranslation": "太阳将要照耀。",
+    "id": "word-007",
+    "frequencyRank": 7
+  },
+  {
+    "word": "up",
+    "phonetic": "/ʌp/",
+    "translation": "向上的, 起床的, 涨的；向上, 上涨；在...上面, 向...的较高处",
+    "example": "The kitten jumped up.",
+    "exampleTranslation": "小猫跳了起来。",
+    "id": "word-008",
+    "frequencyRank": 8
+  },
+  {
+    "word": "one",
+    "phonetic": "/wʌn/",
+    "translation": "一(个)；一, 任何人；一, 一个",
+    "example": "They won the first two games, but lost the last one.",
+    "exampleTranslation": "他们赢了前两场比赛，但输了最后一场。",
+    "id": "word-009",
+    "frequencyRank": 9
+  },
+  {
+    "word": "time",
+    "phonetic": "/taim/",
+    "translation": "时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间；测定...的时间, 记录...的时间, 计时, 定时；时间的, 记时的, 定时的, 定期的, 分期的",
+    "example": "Will you be ready on time?",
+    "exampleTranslation": "你会准时准备好吗？",
+    "id": "word-010",
+    "frequencyRank": 10
+  },
+  {
+    "word": "year",
+    "phonetic": "/jiә/",
+    "translation": "年, 年度, 年龄；[经] 年度",
+    "example": "I met a little cottage girl; she was eight years old, she said.",
+    "exampleTranslation": "我遇到了一个住小屋的小女孩；她说她八岁。",
+    "id": "word-011",
+    "frequencyRank": 11
+  },
+  {
+    "word": "so",
+    "phonetic": "/sәu/",
+    "translation": "如此, 如是, 如...那样；所以, 因此；这样",
+    "example": "Do not laugh at me because I seem so absent minded.",
+    "exampleTranslation": "不要嘲笑我，因为我看起来心不在焉。",
+    "id": "word-012",
+    "frequencyRank": 12
+  },
+  {
+    "word": "think",
+    "phonetic": "/θiŋk/",
+    "translation": "想, 考虑, 想起, 想像, 打算, 认为；思考, 料想；想法",
+    "example": "Think first and then act.",
+    "exampleTranslation": "先思考，后行动。",
+    "id": "word-013",
+    "frequencyRank": 13
+  },
+  {
+    "word": "when",
+    "phonetic": "/hwen/",
+    "translation": "当...的时候；何时, 什么时候；什么时侯",
+    "example": "Come when you are called.",
+    "exampleTranslation": "被叫到时就来。",
+    "id": "word-014",
+    "frequencyRank": 14
+  },
+  {
+    "word": "some",
+    "phonetic": "/sʌm/",
+    "translation": "一些, 一部分, 若干；大约；一些的, 少许的, 某一的",
+    "example": "Have some tea.",
+    "exampleTranslation": "喝点茶吧。",
+    "id": "word-015",
+    "frequencyRank": 15
+  },
+  {
+    "word": "people",
+    "phonetic": "/'pi:pl/",
+    "translation": "人, 人民, 民族, 平民；使住满人, 居住于",
+    "example": "All the people shouted.",
+    "exampleTranslation": "所有的人都喊叫。",
+    "id": "word-016",
+    "frequencyRank": 16
+  },
+  {
+    "word": "take",
+    "phonetic": "/teik/",
+    "translation": "拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费；吃掉对方棋子, 抓住, 起作用, 依法获得财产；拿, 取, 收成, 奏效",
+    "example": "Take this note, carry it to your mother; and wait for an answer.",
+    "exampleTranslation": "拿着这张纸条，把它带给你的母亲；并等待回复。",
+    "id": "word-017",
+    "frequencyRank": 17
+  },
+  {
+    "word": "into",
+    "phonetic": "/'intu:/",
+    "translation": "进入...之内, 朝..., 深入...之中, 成为...状况",
+    "example": "Jack seized a handful of pebbles and threw them into the lake.",
+    "exampleTranslation": "杰克抓了一把鹅卵石，把它们扔进了湖里。",
+    "id": "word-018",
+    "frequencyRank": 18
+  },
+  {
+    "word": "see",
+    "phonetic": "/si:/",
+    "translation": "看见, 查看, 参观, 游览, 理解, 知道, 同意；看, 观看, 注意, 知道, 考虑；主教的职位",
+    "example": "When he saw me, he stopped.",
+    "exampleTranslation": "当他看到我时，他停了下来。",
+    "id": "word-019",
+    "frequencyRank": 19
+  },
+  {
+    "word": "come",
+    "phonetic": "/kʌm/",
+    "translation": "过来, 来, 到达, 出现, 开始；interj. 喂",
+    "example": "Come with us.",
+    "exampleTranslation": "和我们一起来。",
+    "id": "word-020",
+    "frequencyRank": 20
+  },
+  {
+    "word": "could",
+    "phonetic": "/kud/",
+    "translation": "可以, 能",
+    "example": "We could see ourselves in the water.",
+    "exampleTranslation": "我们可以在水中看到我们自己。",
+    "id": "word-021",
+    "frequencyRank": 21
+  },
+  {
+    "word": "now",
+    "phonetic": "/nau/",
+    "translation": "现在, 刚才, 目前；现在；现在的",
+    "example": "The sun is rising now.",
+    "exampleTranslation": "太阳现在正在升起。",
+    "id": "word-022",
+    "frequencyRank": 22
+  },
+  {
+    "word": "than",
+    "phonetic": "/ðæn/",
+    "translation": "比, 除...外；比",
+    "example": "They are no wiser than we.",
+    "exampleTranslation": "他们不比我们聪明。",
+    "id": "word-023",
+    "frequencyRank": 23
+  },
+  {
+    "word": "like",
+    "phonetic": "/laik/",
+    "translation": "相似的, 同样的；喜欢, 愿意, 想；喜欢, 希望",
+    "example": "Do you like summer or winter better?",
+    "exampleTranslation": "你更喜欢夏天还是冬天？",
+    "id": "word-024",
+    "frequencyRank": 24
+  },
+  {
+    "word": "how",
+    "phonetic": "/hau/",
+    "translation": "如何, 怎样, 多少, 多么；方式",
+    "example": "How wide is the River?",
+    "exampleTranslation": "河有多宽？",
+    "id": "word-025",
+    "frequencyRank": 25
+  },
+  {
+    "word": "then",
+    "phonetic": "/ðen/",
+    "translation": "然后, 当时；那时",
+    "example": "Think first and then act.",
+    "exampleTranslation": "先思考，后行动。",
+    "id": "word-026",
+    "frequencyRank": 26
+  },
+  {
+    "word": "its",
+    "phonetic": "/its/",
+    "translation": "它的",
+    "example": "Near the mouth of the river, its course turns sharply towards the East.",
+    "exampleTranslation": "在河口附近，它的流向急剧转向东方。",
+    "id": "word-027",
+    "frequencyRank": 27
+  },
+  {
+    "word": "more",
+    "phonetic": "/mɒ:/",
+    "translation": "更多；多的, 程度较大的, 更大的；多, 更多, 进一步",
+    "example": "We should eat more slowly.",
+    "exampleTranslation": "我们应该吃得慢一点。",
+    "id": "word-028",
+    "frequencyRank": 28
+  },
+  {
+    "word": "way",
+    "phonetic": "/wei/",
+    "translation": "路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面；远远地, 非常",
+    "example": "The river knows the way to the sea.",
+    "exampleTranslation": "河流知道通往大海的路。",
+    "id": "word-029",
+    "frequencyRank": 29
+  },
+  {
+    "word": "look",
+    "phonetic": "/luk/",
+    "translation": "一看, 神色, 样子, 面容；看, 注意, 朝着, 显得；打量, 看上去与...一样, 以眼色(或脸色)显示, 期待",
+    "example": "Slowly she looked around.",
+    "exampleTranslation": "她慢慢地环顾四周。",
+    "id": "word-030",
+    "frequencyRank": 30
+  },
+  {
+    "word": "first",
+    "phonetic": "/fә:st/",
+    "translation": "首先, 第一, 优先；第一的；第一",
+    "example": "Think first and then act.",
+    "exampleTranslation": "先思考，后行动。",
+    "id": "word-031",
+    "frequencyRank": 31
+  },
+  {
+    "word": "new",
+    "phonetic": "/nju:/",
+    "translation": "新的, 陌生的, 最近的, 不熟悉的；[法] 新发现的, 新的, 重新开始的",
+    "example": "We learn something new each day.",
+    "exampleTranslation": "我们每天学习新东西。",
+    "id": "word-032",
+    "frequencyRank": 32
+  },
+  {
+    "word": "because",
+    "phonetic": "/bi'kɒ:z/",
+    "translation": "因为",
+    "example": "Do not laugh at me because I seem so absent minded.",
+    "exampleTranslation": "不要嘲笑我，因为我看起来心不在焉。",
+    "id": "word-033",
+    "frequencyRank": 33
+  },
+  {
+    "word": "day",
+    "phonetic": "/dei/",
+    "translation": "天, 日子, 白天, 工作日；[医] 日(一昼夜), 昼, 白天",
+    "example": "We learn something new each day.",
+    "exampleTranslation": "我们每天学习新东西。",
+    "id": "word-034",
+    "frequencyRank": 34
+  },
+  {
+    "word": "no",
+    "phonetic": "/nәu/",
+    "translation": "不, 拒绝, 否决票；没有, 不是, 绝非；不",
+    "example": "They are no wiser than we.",
+    "exampleTranslation": "他们不比我们聪明。",
+    "id": "word-035",
+    "frequencyRank": 35
+  },
+  {
+    "word": "man",
+    "phonetic": "/mæn/",
+    "translation": "男人, 人类, 人；为...配备人手, 操纵, 使振奋；[计] 城域网, 手册",
+    "example": "Did the man leave?",
+    "exampleTranslation": "那个人走了吗？",
+    "id": "word-036",
+    "frequencyRank": 36
+  },
+  {
+    "word": "find",
+    "phonetic": "/faind/",
+    "translation": "发现, 感到, 找到, 认为, 得到；裁决；发现",
+    "example": "I have found the ring I lost.",
+    "exampleTranslation": "我找到了我丢失的戒指。",
+    "id": "word-037",
+    "frequencyRank": 37
+  },
+  {
+    "word": "here",
+    "phonetic": "/hiә/",
+    "translation": "在这里, 此时, 这里；这里",
+    "example": "Sit here by me.",
+    "exampleTranslation": "坐在这里我旁边。",
+    "id": "word-038",
+    "frequencyRank": 38
+  },
+  {
+    "word": "give",
+    "phonetic": "/giv/",
+    "translation": "弹性, 适应性；给, 授予, 供给, 产生, 发表, 付出, 献出, 让出；捐赠, 支持不住, 让步",
+    "example": "I have lost the book that you gave me.",
+    "exampleTranslation": "我把你给我的书弄丢了。",
+    "id": "word-039",
+    "frequencyRank": 39
+  },
+  {
+    "word": "many",
+    "phonetic": "/'meni/",
+    "translation": "多数, 多数人；许多的；许多",
+    "example": "Many of the people shouted twice.",
+    "exampleTranslation": "许多人喊了两次。",
+    "id": "word-040",
+    "frequencyRank": 40
+  },
+  {
+    "word": "well",
+    "phonetic": "/wel/",
+    "translation": "井, 泉水, 源泉, 好；涌出；健康的, 良好的, 适宜的, 恰当的",
+    "example": "Can your brother dance well?",
+    "exampleTranslation": "你的兄弟能跳舞跳得好吗？",
+    "id": "word-041",
+    "frequencyRank": 41
+  },
+  {
+    "word": "tell",
+    "phonetic": "/tel/",
+    "translation": "告诉, 说, 吩咐, 断定, 知道；讲述, 泄密, 告发, 表明",
+    "example": "Tell the last part of that story again.",
+    "exampleTranslation": "再讲一遍那个故事的最后部分。",
+    "id": "word-042",
+    "frequencyRank": 42
+  },
+  {
+    "word": "very",
+    "phonetic": "/'veri/",
+    "translation": "真正的, 恰好的, 十足的, 特有的；非常, 完全",
+    "example": "I am very happy.",
+    "exampleTranslation": "我很开心。",
+    "id": "word-043",
+    "frequencyRank": 43
+  },
+  {
+    "word": "even",
+    "phonetic": "/'i:vәn/",
+    "translation": "平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的；使平坦, 使相等；变平, 成为相等",
+    "example": "On a fine summer evening, the two old people were sitting outside the door of their cottage.",
+    "exampleTranslation": "在一个美好的夏日傍晚，两位老人正坐在他们的小屋门外。",
+    "id": "word-044",
+    "frequencyRank": 44
+  },
+  {
+    "word": "back",
+    "phonetic": "/bæk/",
+    "translation": "后面的；使后退, 支持；倒退, 背靠",
+    "example": "We went back to the place where we saw the roses.",
+    "exampleTranslation": "我们回到了我们看到玫瑰的地方。",
+    "id": "word-045",
+    "frequencyRank": 45
+  },
+  {
+    "word": "good",
+    "phonetic": "/gud/",
+    "translation": "善行, 好处, 利益；好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
+    "example": "Do you like summer or winter better?",
+    "exampleTranslation": "你更喜欢夏天还是冬天？",
+    "id": "word-046",
+    "frequencyRank": 46
+  },
+  {
+    "word": "woman",
+    "phonetic": "/'wumәn/",
+    "translation": "女人, 妇女, 女仆；女用的, 女性的, 妇女的；贬称...为女人, 使成女人腔",
+    "example": "On the top of the hill in a little hut lived a wise old woman.",
+    "exampleTranslation": "在山顶的一个小棚屋里住着一位聪明的老妇人。",
+    "id": "word-047",
+    "frequencyRank": 47
+  },
+  {
+    "word": "through",
+    "phonetic": "/θru:/",
+    "translation": "穿越, 从头至尾, 到底, 因为；经过, 穿过；对穿的, 直达的, 完结的",
+    "example": "The sun looked down through the branches upon the children at play.",
+    "exampleTranslation": "太阳透过树枝俯视着玩耍的孩子们。",
+    "id": "word-048",
+    "frequencyRank": 48
+  },
+  {
+    "word": "us",
+    "phonetic": "/ʌs/",
+    "translation": "我们；[经] 美国",
+    "example": "Come with us.",
+    "exampleTranslation": "和我们一起来。",
+    "id": "word-049",
+    "frequencyRank": 49
+  },
+  {
+    "word": "child",
+    "phonetic": "/tʃaild/",
+    "translation": "孩子, 产物, 追随者；[医] 儿童",
+    "example": "Hurry, children.",
+    "exampleTranslation": "快点，孩子们。",
+    "id": "word-050",
+    "frequencyRank": 50
+  },
+  {
+    "word": "work",
+    "phonetic": "/wә:k/",
+    "translation": "工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程；工作, 劳动, 做, 运转, 起作用, 被加工；使工作, 使转动, 开动, 使用, 经营, 使逐渐变得, 造成",
+    "example": "The two boys are working together.",
+    "exampleTranslation": "两个男孩正在一起工作。",
+    "id": "word-051",
+    "frequencyRank": 51
+  },
+  {
+    "word": "down",
+    "phonetic": "/daun/",
+    "translation": "向下的；下, 下去, 降下；往下, 沿着",
+    "example": "The rain came down.",
+    "exampleTranslation": "雨下下来了。",
+    "id": "word-052",
+    "frequencyRank": 52
+  },
+  {
+    "word": "after",
+    "phonetic": "/'ɑ:ftә/",
+    "translation": "在...之后, 由于；在...之后；后来",
+    "example": "I can play after school.",
+    "exampleTranslation": "我放学后可以玩。",
+    "id": "word-053",
+    "frequencyRank": 53
+  },
+  {
+    "word": "should",
+    "phonetic": "/ʃud/",
+    "translation": "应该, 将要",
+    "example": "You should go.",
+    "exampleTranslation": "你应该走。",
+    "id": "word-054",
+    "frequencyRank": 54
+  },
+  {
+    "word": "call",
+    "phonetic": "/kɒ:l/",
+    "translation": "呼叫, 访问, 打电话, 号召, 召集, 要求；呼叫, 召集, 打电话；叫喊, 访问, 叫牌",
+    "example": "Come when you are called.",
+    "exampleTranslation": "被叫到时就来。",
+    "id": "word-055",
+    "frequencyRank": 55
+  },
+  {
+    "word": "world",
+    "phonetic": "/wә:ld/",
+    "translation": "世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量；[法] 世界, 地球, 世人",
+    "example": "We visited my uncle's village, the largest village in the world.",
+    "exampleTranslation": "我们参观了我叔叔的村庄，世界上最大的村庄。",
+    "id": "word-056",
+    "frequencyRank": 56
+  },
+  {
+    "word": "over",
+    "phonetic": "/'әuvә/",
+    "translation": "结束, 越过, 从头到尾；在...之上, 遍于...之上, 越过；上面的",
+    "example": "A company of soldiers marched over the hill and across the meadow.",
+    "exampleTranslation": "一队士兵行军越过山丘，穿过草地。",
+    "id": "word-057",
+    "frequencyRank": 57
+  },
+  {
+    "word": "school",
+    "phonetic": "/sku:l/",
+    "translation": "学校, 鱼群, 门派, 学派；教育, 训练, 培养；成群地游",
+    "example": "I can play after school.",
+    "exampleTranslation": "我放学后可以玩。",
+    "id": "word-058",
+    "frequencyRank": 58
+  },
+  {
+    "word": "last",
+    "phonetic": "/lɑ:st/",
+    "translation": "最后的, 末尾的, 最近的；持续, 支持, 维持；使维持, 够...用",
+    "example": "Tell the last part of that story again.",
+    "exampleTranslation": "再讲一遍那个故事的最后部分。",
+    "id": "word-059",
+    "frequencyRank": 59
+  },
+  {
+    "word": "need",
+    "phonetic": "/ni:d/",
+    "translation": "需要, 必须, 缺乏；需要, 必需；贫困, 有必要",
+    "example": "I shall lend you the books that you need.",
+    "exampleTranslation": "我会借给你你需要的书。",
+    "id": "word-060",
+    "frequencyRank": 60
+  },
+  {
+    "word": "too",
+    "phonetic": "/tu:/",
+    "translation": "也, 非常, 太",
+    "example": "You have come too soon.",
+    "exampleTranslation": "你来得太早了。",
+    "id": "word-061",
+    "frequencyRank": 61
+  },
+  {
+    "word": "feel",
+    "phonetic": "/fi:l/",
+    "translation": "感觉, 觉得, 触摸, 以为；有知觉, 摸索, 同情；感觉, 觉得, 触摸",
+    "example": "The fire feels hot.",
+    "exampleTranslation": "火感觉很热。",
+    "id": "word-062",
+    "frequencyRank": 62
+  },
+  {
+    "word": "never",
+    "phonetic": "/'nevә/",
+    "translation": "从不, 决不, 不曾；[法] 永不, 决不, 从来没有",
+    "example": "Evidently that gate is never opened, for the long grass and the great hemlocks grow close against it.",
+    "exampleTranslation": "显然那扇门从未被打开过，因为长草和大毒芹紧挨着它生长。",
+    "id": "word-063",
+    "frequencyRank": 63
+  },
+  {
+    "word": "between",
+    "phonetic": "/bi'twi:n/",
+    "translation": "在...之间",
+    "example": "Between the two lofty mountains lay a fertile valley.",
+    "exampleTranslation": "在两座高山之间躺着一个肥沃的山谷。",
+    "id": "word-064",
+    "frequencyRank": 64
+  },
+  {
+    "word": "high",
+    "phonetic": "/hai/",
+    "translation": "高度, 高处；高的, 高级的, 主要的, 高尚的, 高原的, 高音的, 昂贵的, 傲慢的；高度地, 奢侈地",
+    "example": "\"This tree is fifty feet high,\" said the gardener.",
+    "exampleTranslation": "“这棵树有五十英尺高，”园丁说。",
+    "id": "word-065",
+    "frequencyRank": 65
+  },
+  {
+    "word": "something",
+    "phonetic": "/'sʌmθiŋ/",
+    "translation": "某事, 某物",
+    "example": "We learn something new each day.",
+    "exampleTranslation": "我们每天学习新东西。",
+    "id": "word-066",
+    "frequencyRank": 66
+  },
+  {
+    "word": "much",
+    "phonetic": "/mʌtʃ/",
+    "translation": "大量, 许多, 重要的事；很多的, 重要的；多, 甚, 几乎",
+    "example": "Toward the end of August the days grow much shorter.",
+    "exampleTranslation": "接近八月底，白天变得短多了。",
+    "id": "word-067",
+    "frequencyRank": 67
+  },
+  {
+    "word": "own",
+    "phonetic": "/әun/",
+    "translation": "自己的；自己的, 嫡亲的, 同胞的；拥有, 支配, 自认, 承认, 顺从于",
+    "example": "The fisherman who owned the boat now demanded payment.",
+    "exampleTranslation": "拥有这艘船的渔夫现在要求付款。",
+    "id": "word-068",
+    "frequencyRank": 68
+  },
+  {
+    "word": "leave",
+    "phonetic": "/li:v/",
+    "translation": "许可, 告别, 请假, 休假；离开, 剩下, 遗忘, 委托, 丢弃；出发, 离开, 生叶",
+    "example": "Did the man leave?",
+    "exampleTranslation": "那个人走了吗？",
+    "id": "word-069",
+    "frequencyRank": 69
+  },
+  {
+    "word": "old",
+    "phonetic": "/әuld/",
+    "translation": "以前, 往昔；老的, 旧的, 古老的, 年长的, 老练的",
+    "example": "An old man with a walking stick stood beside the fence.",
+    "exampleTranslation": "一个拿着手杖的老人站在篱笆旁。",
+    "id": "word-070",
+    "frequencyRank": 70
+  },
+  {
+    "word": "while",
+    "phonetic": "/hwail/",
+    "translation": "一会儿, (一段)时间；当...的时候, 虽然；消磨",
+    "example": "Hold the horse while I run and get my cap.",
+    "exampleTranslation": "我去拿帽子的时候，牵着马。",
+    "id": "word-071",
+    "frequencyRank": 71
+  },
+  {
+    "word": "keep",
+    "phonetic": "/ki:p/",
+    "translation": "生计, 维持, 保持；保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐；保持, 继续不断",
+    "example": "Keep this secret until tomorrow.",
+    "exampleTranslation": "把这个秘密保守到明天。",
+    "id": "word-072",
+    "frequencyRank": 72
+  },
+  {
+    "word": "why",
+    "phonetic": "/hwai/",
+    "translation": "为什么；原因, 理由",
+    "example": "Why he has left the city is a mystery.",
+    "exampleTranslation": "他为什么离开这座城市是个谜。",
+    "id": "word-073",
+    "frequencyRank": 73
+  },
+  {
+    "word": "great",
+    "phonetic": "/greit/",
+    "translation": "大的, 非常的, 主要的, 重大的, 崇高的, 伟大的；顺利地, 得意地；全部, 大人物, 大师",
+    "example": "Pip and his dog were great friends.",
+    "exampleTranslation": "皮普和他的狗是好朋友。",
+    "id": "word-074",
+    "frequencyRank": 74
+  },
+  {
+    "word": "big",
+    "phonetic": "/big/",
+    "translation": "大的, 重要的；大量地",
+    "example": "Are these shoes too big for you?",
+    "exampleTranslation": "这些鞋子对你来说太大了吗？",
+    "id": "word-075",
+    "frequencyRank": 75
+  },
+  {
+    "word": "begin",
+    "phonetic": "/bi'gin/",
+    "translation": "开始；[计] 开始",
+    "example": "The market begins five minutes earlier this week.",
+    "exampleTranslation": "这周市场提前五分钟开始。",
+    "id": "word-076",
+    "frequencyRank": 76
+  },
+  {
+    "word": "seem",
+    "phonetic": "/si:m/",
+    "translation": "象是, 似乎",
+    "example": "The little girl seemed lonely.",
+    "exampleTranslation": "小女孩似乎很孤独。",
+    "id": "word-077",
+    "frequencyRank": 77
+  },
+  {
+    "word": "country",
+    "phonetic": "/'kʌntri/",
+    "translation": "国家, 乡村, 地区, 故乡；乡下的, 农村的；[计] DOS外部命令:用于设定国家代码, 包括日期时间及货币格式",
+    "example": "We are a brave people, and love our country.",
+    "exampleTranslation": "我们是勇敢的人民，热爱我们的国家。",
+    "id": "word-078",
+    "frequencyRank": 78
+  },
+  {
+    "word": "talk",
+    "phonetic": "/tɒ:k/",
+    "translation": "谈话, 交谈, 会谈, 讲话, 演讲, 空谈, 谣言, 方言, 语言；讲话, 演讲, 说话, 谈话, 交流, 闲聊, 说闲话；讲, 说, 讨论, 谈论",
+    "example": "She was talking to herself.",
+    "exampleTranslation": "她在自言自语。",
+    "id": "word-079",
+    "frequencyRank": 79
+  },
+  {
+    "word": "where",
+    "phonetic": "/hwєә/",
+    "translation": "在哪里；哪里；地点",
+    "example": "The house stands where three roads meet.",
+    "exampleTranslation": "房子就在三条路交汇的地方。",
+    "id": "word-080",
+    "frequencyRank": 80
+  },
+  {
+    "word": "turn",
+    "phonetic": "/tә:n/",
+    "translation": "转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折；使旋转, 转弯, 转动, 使转向, 驱赶, 阻挡, 兑换, 改写, 使作对, 绕过, 使流通；转动, 转弯, 转向, 翻转",
+    "example": "Near the mouth of the river, its course turns sharply towards the East.",
+    "exampleTranslation": "在河口附近，它的流向急剧转向东方。",
+    "id": "word-081",
+    "frequencyRank": 81
+  },
+  {
+    "word": "every",
+    "phonetic": "/'evri/",
+    "translation": "每一, 所有的",
+    "example": "Every spring and fall our cousins pay us a long visit.",
+    "exampleTranslation": "每年春天和秋天，我们的表亲都会长久地拜访我们。",
+    "id": "word-082",
+    "frequencyRank": 82
+  },
+  {
+    "word": "start",
+    "phonetic": "/stɑ:t/",
+    "translation": "惊起, 出发, 开端, 起点, 吃惊, 有利条件；开始, 出发, 启动, 跳起, 吃惊, 出现, 松动, 脱落, 起价, 参赛；使惊起, 开动, 发动, 启动, 开始, 创办, 提议, 使松动, 使脱落, 起用",
+    "example": "On a Sunny morning after the solstice we started for the mountains.",
+    "exampleTranslation": "在夏至后的一个阳光明媚的早晨，我们出发去山里。",
+    "id": "word-083",
+    "frequencyRank": 83
+  },
+  {
+    "word": "hand",
+    "phonetic": "/hænd/",
+    "translation": "手, 爪, 指针, 掌握, 协助, 人手, 手艺, 手迹, 支配, 插手；交给, 支持, 搀扶",
+    "example": "The baby clapped her hands and laughed in glee.",
+    "exampleTranslation": "婴儿拍着手，高兴地笑了。",
+    "id": "word-084",
+    "frequencyRank": 84
+  },
+  {
+    "word": "show",
+    "phonetic": "/ʃәu/",
+    "translation": "显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相；表示, 显示, 展现, 陈列, 演出, 表明, 指出, 带领；露面, 显现, 演出",
+    "example": "Show the guests these shells, my son, and tell them their strange history.",
+    "exampleTranslation": "给客人看这些贝壳，我的儿子，告诉他们它们奇怪的历史。",
+    "id": "word-085",
+    "frequencyRank": 85
+  },
+  {
+    "word": "part",
+    "phonetic": "/pɑ:t/",
+    "translation": "部分, 局部, 零件, 要素, 等分, 职责, 角色, 部位；分开, 分离, 断绝, 区别, 分配；分开, 断裂, 分手",
+    "example": "Tell the last part of that story again.",
+    "exampleTranslation": "再讲一遍那个故事的最后部分。",
+    "id": "word-086",
+    "frequencyRank": 86
+  },
+  {
+    "word": "against",
+    "phonetic": "/ә'geinst/",
+    "translation": "反对, 对着, 倚靠",
+    "example": "Evidently that gate is never opened, for the long grass and the great hemlocks grow close against it.",
+    "exampleTranslation": "显然那扇门从未被打开过，因为长草和大毒芹紧挨着它生长。",
+    "id": "word-087",
+    "frequencyRank": 87
+  },
+  {
+    "word": "place",
+    "phonetic": "/pleis/",
+    "translation": "地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位；放置, 寄予, 认出, 评定, 任命；名次列前",
+    "example": "We will make this place our home.",
+    "exampleTranslation": "我们将把这个地方当成我们的家。",
+    "id": "word-088",
+    "frequencyRank": 88
+  },
+  {
+    "word": "again",
+    "phonetic": "/ә'gein/",
+    "translation": "再一次, 又, 到原处",
+    "example": "The sun is shining again.",
+    "exampleTranslation": "太阳又在照耀了。",
+    "id": "word-089",
+    "frequencyRank": 89
+  },
+  {
+    "word": "week",
+    "phonetic": "/wi:k/",
+    "translation": "星期, 周",
+    "example": "The market begins five minutes earlier this week.",
+    "exampleTranslation": "这周市场提前五分钟开始。",
+    "id": "word-090",
+    "frequencyRank": 90
+  },
+  {
+    "word": "company",
+    "phonetic": "/'kʌmpәni/",
+    "translation": "公司, 友伴, 交往, 连队, 朋友, 一群；陪伴；交往",
+    "example": "A company of soldiers marched over the hill and across the meadow.",
+    "exampleTranslation": "一队士兵行军越过山丘，穿过草地。",
+    "id": "word-091",
+    "frequencyRank": 91
+  },
+  {
+    "word": "mr",
+    "phonetic": "/'mistә(r)/",
+    "translation": "先生；[计] 存储器回收程序, 多重请求",
+    "example": "Mr. Jones made a knife for his little boy.",
+    "exampleTranslation": "琼斯先生给他的小儿子做了一把刀。",
+    "id": "word-092",
+    "frequencyRank": 92
+  },
+  {
+    "word": "each",
+    "phonetic": "/i:tʃ/",
+    "translation": "每个, 每一；每个；每个, 个人, 各自",
+    "example": "We learn something new each day.",
+    "exampleTranslation": "我们每天学习新东西。",
+    "id": "word-093",
+    "frequencyRank": 93
+  },
+  {
+    "word": "hear",
+    "phonetic": "/hiә/",
+    "translation": "听到, 倾听, 听说, 审理；听见, 听",
+    "example": "They heard the warning too late.",
+    "exampleTranslation": "他们听到警告太晚了。",
+    "id": "word-094",
+    "frequencyRank": 94
+  },
+  {
+    "word": "during",
+    "phonetic": "/'djuәriŋ/",
+    "translation": "在...的时候",
+    "example": "During our residence in the country we often walked in the pastures.",
+    "exampleTranslation": "在我们住在乡下期间，我们经常在牧场散步。",
+    "id": "word-095",
+    "frequencyRank": 95
+  },
+  {
+    "word": "play",
+    "phonetic": "/plei/",
+    "translation": "游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本；玩, 游戏, 假装, 开玩笑, 比赛, 扮演, 演奏, 演戏, 传摇曳, (使)跳动；[计] 播放",
+    "example": "Play and I will sing.",
+    "exampleTranslation": "演奏吧，我就唱歌。",
+    "id": "word-096",
+    "frequencyRank": 96
+  },
+  {
+    "word": "run",
+    "phonetic": "/rʌn/",
+    "translation": "跑, 赛跑, 奔跑, 奔跑的路程, 趋向, 流出, 运转时间, 连续；跑, 奔跑, 跑步, 赛跑, 竞赛, 行驶, 运转, 进行, 蔓延；使跑, 参赛, 追究, 驾驶, 开动, 管理, 经营, 使流出, 运行",
+    "example": "The children ran after Jack.",
+    "exampleTranslation": "孩子们追赶杰克。",
+    "id": "word-097",
+    "frequencyRank": 97
+  },
+  {
+    "word": "small",
+    "phonetic": "/smɒ:l/",
+    "translation": "小的, 少的, 小型的, 低微的, 小气的, 细微的；些微地；狭小部分",
+    "example": "He is small, but strong.",
+    "exampleTranslation": "他很小，但很强壮。",
+    "id": "word-098",
+    "frequencyRank": 98
+  },
+  {
+    "word": "always",
+    "phonetic": "/'ɒ:lweiz/",
+    "translation": "总是, 始终",
+    "example": "She was always, shabby, often ragged, and on cold days very uncomfortable.",
+    "exampleTranslation": "她总是破旧不堪，经常衣衫褴褛，在寒冷的日子里很不舒服。",
+    "id": "word-099",
+    "frequencyRank": 99
+  },
+  {
+    "word": "night",
+    "phonetic": "/nait/",
+    "translation": "夜, 夜晚, 晚上, 黑暗, 夜晚的工作；[法] 夜, 黑夜, 黑暗",
+    "example": "In winter I get up at night, and dress by yellow candlelight.",
+    "exampleTranslation": "在冬天，我在晚上起床，在黄色的烛光下穿衣。",
+    "id": "word-100",
+    "frequencyRank": 100
+  },
+  {
+    "word": "live",
+    "phonetic": "/liv.laiv/",
+    "translation": "活的, 生动的, 精力充沛的, 实况转播的；活, 生存, 居住；过着, 度过, 经历",
+    "example": "Once wild animals lived here.",
+    "exampleTranslation": "曾经有野生动物住在这里。",
+    "id": "word-101",
+    "frequencyRank": 101
+  },
+  {
+    "word": "hold",
+    "phonetic": "/hәuld/",
+    "translation": "把握, 把持力, 柄, 控制, 掌握, 监禁；保存, 握住, 拿住, 占据, 持有, 拥有；支持, 持续, 有效",
+    "example": "Hold the horse while I run and get my cap.",
+    "exampleTranslation": "我去拿帽子的时候，牵着马。",
+    "id": "word-102",
+    "frequencyRank": 102
+  },
+  {
+    "word": "today",
+    "phonetic": "/tә'dei/",
+    "translation": "今天, 当今, 现在；今天, 当今",
+    "example": "Is today Monday?",
+    "exampleTranslation": "今天是星期一吗？",
+    "id": "word-103",
+    "frequencyRank": 103
+  },
+  {
+    "word": "bring",
+    "phonetic": "/briŋ/",
+    "translation": "带来, 产生, 促使, 提出；生产",
+    "example": "Bring your friends with you.",
+    "exampleTranslation": "带上你的朋友。",
+    "id": "word-104",
+    "frequencyRank": 104
+  },
+  {
+    "word": "next",
+    "phonetic": "/'nekst/",
+    "translation": "下一个；下一个的, 其次的, 贴近的；然后, 下次, 次于",
+    "example": "Come early next Monday if you can.",
+    "exampleTranslation": "如果可以的话，下周一早点来。",
+    "id": "word-105",
+    "frequencyRank": 105
+  },
+  {
+    "word": "large",
+    "phonetic": "/lɑ:dʒ/",
+    "translation": "大的, 大量的, 宽大的, 广博的；大大地, 夸大地",
+    "example": "We visited my uncle's village, the largest village in the world.",
+    "exampleTranslation": "我们参观了我叔叔的村庄，世界上最大的村庄。",
+    "id": "word-106",
+    "frequencyRank": 106
+  },
+  {
+    "word": "must",
+    "phonetic": "/mʌst/",
+    "translation": "必须, 未发酵葡萄汁, 绝对必要的事物；必须",
+    "example": "You must write more neatly.",
+    "exampleTranslation": "你必须写得更整洁。",
+    "id": "word-107",
+    "frequencyRank": 107
+  },
+  {
+    "word": "home",
+    "phonetic": "/hәum/",
+    "translation": "家, 避难所, 故乡；家庭的, 国内的, 打中目标的；在家, 在本国, 打中目标地",
+    "example": "We will make this place our home.",
+    "exampleTranslation": "我们将把这个地方当成我们的家。",
+    "id": "word-108",
+    "frequencyRank": 108
+  },
+  {
+    "word": "under",
+    "phonetic": "/'ʌndә/",
+    "translation": "在...之下, 低于；下面的, 从属的；在下面",
+    "example": "Gnomes are little men who live under the ground.",
+    "exampleTranslation": "侏儒是住在地下的小矮人。",
+    "id": "word-109",
+    "frequencyRank": 109
+  },
+  {
+    "word": "water",
+    "phonetic": "/'wɒ:tә/",
+    "translation": "水, 雨水, 海水, 水位, 水面, 流水；给...浇水, 供以水, 注入水, 使湿；流泪, 流口水, 加水",
+    "example": "Sea water is salty.",
+    "exampleTranslation": "海水是咸的。",
+    "id": "word-110",
+    "frequencyRank": 110
+  },
+  {
+    "word": "room",
+    "phonetic": "/ru:m/",
+    "translation": "房间, 空位, 场所；住宿, 居住；留宿",
+    "example": "The little house had three rooms, a sitting room, a bedroom, and a tiny kitchen.",
+    "exampleTranslation": "这所小房子有三个房间，一个起居室，一个卧室和一个极小的厨房。",
+    "id": "word-111",
+    "frequencyRank": 111
+  },
+  {
+    "word": "write",
+    "phonetic": "/rait/",
+    "translation": "书写, 著述, 写, 写满, 写信给；写, 写字, 写信, 写作, 作曲；[计] 书写器",
+    "example": "You must write more neatly.",
+    "exampleTranslation": "你必须写得更整洁。",
+    "id": "word-112",
+    "frequencyRank": 112
+  },
+  {
+    "word": "mother",
+    "phonetic": "/'mʌðә/",
+    "translation": "母亲, 修女院长；产生, 照看, 收养",
+    "example": "Come with your father or mother.",
+    "exampleTranslation": "和你的父亲或母亲一起来。",
+    "id": "word-113",
+    "frequencyRank": 113
+  },
+  {
+    "word": "national",
+    "phonetic": "/'næʃәnәl/",
+    "translation": "国家的, 国立的, 全国性的, 民族的；[经] 全国性的, 国家的, 国民的",
+    "example": "The dress of the little princess was embroidered with roses, the national flower of the Country.",
+    "exampleTranslation": "小公主的裙子上绣着玫瑰，这是该国的国花。",
+    "id": "word-114",
+    "frequencyRank": 114
+  },
+  {
+    "word": "money",
+    "phonetic": "/'mʌni/",
+    "translation": "金钱, 一笔款, 财富, 货币, 金额；[经] 货币, 金钱, 财产",
+    "example": "He has far more money than brains.",
+    "exampleTranslation": "他的钱比脑子多得多。",
+    "id": "word-115",
+    "frequencyRank": 115
+  },
+  {
+    "word": "story",
+    "phonetic": "/'stɒ:ri/",
+    "translation": "故事, 小说, 传奇, 描述, 阅历, 经历, 层",
+    "example": "Tell the last part of that story again.",
+    "exampleTranslation": "再讲一遍那个故事的最后部分。",
+    "id": "word-116",
+    "frequencyRank": 116
+  },
+  {
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "translation": "年轻的, 无经验的, 朝气蓬勃的；青年们, 幼小动物, 崽",
+    "example": "I had a younger brother whose name was Antonio.",
+    "exampleTranslation": "我有一个弟弟，他的名字叫安东尼奥。",
+    "id": "word-117",
+    "frequencyRank": 117
+  },
+  {
+    "word": "book",
+    "phonetic": "/buk/",
+    "translation": "书, 书籍, 帐簿, 名册, 工作簿；登记, 预订；[计] 工作簿",
+    "example": "The boy who brought the book has gone.",
+    "exampleTranslation": "带书来的男孩已经走了。",
+    "id": "word-118",
+    "frequencyRank": 118
+  },
+  {
+    "word": "head",
+    "phonetic": "/hed/",
+    "translation": "头, 头脑, 领袖, 脑袋, 最前的部分；为首, 朝向, 前进, 用头顶；朝特定方向行进, (作物)结穗",
+    "example": "Many little girls with wreaths of flowers on their heads danced around the bonfire.",
+    "exampleTranslation": "许多头上戴着花环的小女孩围着篝火跳舞。",
+    "id": "word-119",
+    "frequencyRank": 119
+  },
+  {
+    "word": "far",
+    "phonetic": "/fɑ:/",
+    "translation": "远的, 久远的, 遥远的；甚远地, 很, 到很深的程度, 到很远的距离",
+    "example": "He has far more money than brains.",
+    "exampleTranslation": "他的钱比脑子多得多。",
+    "id": "word-120",
+    "frequencyRank": 120
+  },
+  {
+    "word": "black",
+    "phonetic": "/blæk/",
+    "translation": "黑色, 黑颜料；黑色的",
+    "example": "My cat is black.",
+    "exampleTranslation": "我的猫是黑色的。",
+    "id": "word-121",
+    "frequencyRank": 121
+  },
+  {
+    "word": "long",
+    "phonetic": "/lɒŋ/",
+    "translation": "长的, 长久的, 冗长的, 做多头的；渴望, 热望, 极想；长久, 始终",
+    "example": "Every spring and fall our cousins pay us a long visit.",
+    "exampleTranslation": "每年春天和秋天，我们的表亲都会长久地拜访我们。",
+    "id": "word-122",
+    "frequencyRank": 122
+  },
+  {
+    "word": "little",
+    "phonetic": "/'litl/",
+    "translation": "一点点, 少许, 一会儿, 短时间；小的, 很少的, 幼小的, 琐碎的, 短暂的, 矮小的；很少, 稍微, 完全不",
+    "example": "My little kitten walked away.",
+    "exampleTranslation": "我的小猫走开了。",
+    "id": "word-123",
+    "frequencyRank": 123
+  },
+  {
+    "word": "house",
+    "phonetic": "/haus/",
+    "translation": "房子, 住宅, 机构, 议院, 家族, 家庭；给...房子住, 收藏；住, 躲藏",
+    "example": "The house stands where three roads meet.",
+    "exampleTranslation": "房子就在三条路交汇的地方。",
+    "id": "word-124",
+    "frequencyRank": 124
+  },
+  {
+    "word": "around",
+    "phonetic": "/ә'raund/",
+    "translation": "包围, 在...周围, 四处；兜着圈子, 在附近, 到处",
+    "example": "Slowly she looked around.",
+    "exampleTranslation": "她慢慢地环顾四周。",
+    "id": "word-125",
+    "frequencyRank": 125
+  },
+  {
+    "word": "friend",
+    "phonetic": "/frend/",
+    "translation": "朋友, 支持者, 赞助者；[法] 朋友, 友人, 赞助者",
+    "example": "Bring your friends with you.",
+    "exampleTranslation": "带上你的朋友。",
+    "id": "word-126",
+    "frequencyRank": 126
+  },
+  {
+    "word": "father",
+    "phonetic": "/'fɑ:ðә/",
+    "translation": "父亲, 祖先, 长辈, 神父, 创始者；当...的父亲, 保护, 创作, 发明, 培养",
+    "example": "Come with your father or mother.",
+    "exampleTranslation": "和你的父亲或母亲一起来。",
+    "id": "word-127",
+    "frequencyRank": 127
+  },
+  {
+    "word": "sit",
+    "phonetic": "/sit/",
+    "translation": "坐, 就座, 坐落；使就座, 骑；坐, 衣服合身",
+    "example": "Sit here by me.",
+    "exampleTranslation": "坐在这里我旁边。",
+    "id": "word-128",
+    "frequencyRank": 128
+  },
+  {
+    "word": "away",
+    "phonetic": "/ә'wei/",
+    "translation": "离去",
+    "example": "Go away!",
+    "exampleTranslation": "走开！",
+    "id": "word-129",
+    "frequencyRank": 129
+  },
+  {
+    "word": "until",
+    "phonetic": "/әn'til/",
+    "translation": "直到, 在...以前；直到...时, 在...以前",
+    "example": "Keep this secret until tomorrow.",
+    "exampleTranslation": "把这个秘密保守到明天。",
+    "id": "word-130",
+    "frequencyRank": 130
+  },
+  {
+    "word": "game",
+    "phonetic": "/geim/",
+    "translation": "比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味；赌博；勇敢的, 有胆量的, 关于野味的, 跛的",
+    "example": "Stop your game and be quiet.",
+    "exampleTranslation": "停止游戏，安静下来。",
+    "id": "word-131",
+    "frequencyRank": 131
+  },
+  {
+    "word": "often",
+    "phonetic": "/'ɒ:fn/",
+    "translation": "时常, 常常",
+    "example": "Happy people often shout.",
+    "exampleTranslation": "快乐的人经常喊叫。",
+    "id": "word-132",
+    "frequencyRank": 132
+  },
+  {
+    "word": "line",
+    "phonetic": "/lain/",
+    "translation": "列, 线, 绳, 电线, 线路, 路线, 航线, 作业线, 界线, 战线, 外形, 排, 家系；排成一行, 顺...排列, 划线于, 加衬里, 使有线条, 使起皱纹；排队",
+    "example": "The first boy in the line stopped at the entrance.",
+    "exampleTranslation": "队伍里的第一个男孩在入口处停了下来。",
+    "id": "word-133",
+    "frequencyRank": 133
+  },
+  {
+    "word": "end",
+    "phonetic": "/end/",
+    "translation": "结束, 终点, 目标, 末端, 梢, 死亡, 残余；结束, 终结, 终止；[计] 端; 结束",
+    "example": "Toward the end of August the days grow much shorter.",
+    "exampleTranslation": "接近八月底，白天变得短多了。",
+    "id": "word-134",
+    "frequencyRank": 134
+  },
+  {
+    "word": "among",
+    "phonetic": "/ә'mʌŋ/",
+    "translation": "在...之中",
+    "example": "Among the wheat grew tall red poppies.",
+    "exampleTranslation": "在小麦中生长着高大的红罂粟。",
+    "id": "word-135",
+    "frequencyRank": 135
+  },
+  {
+    "word": "ever",
+    "phonetic": "/'evә/",
+    "translation": "曾经, 究竟, 永远",
+    "example": "Have you ever travelled in the jungle?",
+    "exampleTranslation": "你曾在丛林中旅行过吗？",
+    "id": "word-136",
+    "frequencyRank": 136
+  },
+  {
+    "word": "stand",
+    "phonetic": "/stænd/",
+    "translation": "站立, 站住, 停顿, 讲台, 看台, 立场, 法院证人席；站, 立, 坐落, 停滞, 位于, 坚持, 维持原状；忍受, 使站立, 抵挡",
+    "example": "The house stands where three roads meet.",
+    "exampleTranslation": "房子就在三条路交汇的地方。",
+    "id": "word-137",
+    "frequencyRank": 137
+  },
+  {
+    "word": "lose",
+    "phonetic": "/lu:z/",
+    "translation": "遗失, 损失, 丢失, 使失去, 错过, 浪费, 迷失, 使迷路, 输去, 使沉溺于；受损失, 失败",
+    "example": "Henry's dog is lost.",
+    "exampleTranslation": "亨利的狗丢了。",
+    "id": "word-138",
+    "frequencyRank": 138
+  },
+  {
+    "word": "pay",
+    "phonetic": "/pei/",
+    "translation": "薪资, 付款, 补偿；支付, 付清, 补偿, 偿还, 对...有利, 为...涂防水物；付款, 付出代价, 偿还, 得到报应, 获得好处",
+    "example": "Every spring and fall our cousins pay us a long visit.",
+    "exampleTranslation": "每年春天和秋天，我们的表亲都会长久地拜访我们。",
+    "id": "word-139",
+    "frequencyRank": 139
+  },
+  {
+    "word": "meet",
+    "phonetic": "/mi:t/",
+    "translation": "会, 集会；适宜的, 合适的；遇见, 引见, 认识, 满足, 对付",
+    "example": "The house stands where three roads meet.",
+    "exampleTranslation": "房子就在三条路交汇的地方。",
+    "id": "word-140",
+    "frequencyRank": 140
+  },
+  {
+    "word": "city",
+    "phonetic": "/'siti/",
+    "translation": "城市, 市；[法] 都市, 城市, 市",
+    "example": "Why he has left the city is a mystery.",
+    "exampleTranslation": "他为什么离开这座城市是个谜。",
+    "id": "word-141",
+    "frequencyRank": 141
+  },
+  {
+    "word": "later",
+    "phonetic": "/'leitә/",
+    "translation": "以后, 随后",
+    "example": "They heard the warning too late.",
+    "exampleTranslation": "他们听到警告太晚了。",
+    "id": "word-142",
+    "frequencyRank": 142
+  },
+  {
+    "word": "name",
+    "phonetic": "/neim/",
+    "translation": "名字, 名称, 姓名, 名义, 名誉, 文件名；命名, 称呼, 任命, 提名, 列举；姓名的, 据以取名的",
+    "example": "Our bird's name is Jacko.",
+    "exampleTranslation": "我们的鸟的名字是杰克。",
+    "id": "word-143",
+    "frequencyRank": 143
+  },
+  {
+    "word": "once",
+    "phonetic": "/wʌns/",
+    "translation": "一次, 曾经, 一旦；一旦, 一经；一次",
+    "example": "Once wild animals lived here.",
+    "exampleTranslation": "曾经有野生动物住在这里。",
+    "id": "word-144",
+    "frequencyRank": 144
+  },
+  {
+    "word": "learn",
+    "phonetic": "/lә:n/",
+    "translation": "学习；认识到；得知",
+    "example": "We learn something new each day.",
+    "exampleTranslation": "我们每天学习新东西。",
+    "id": "word-145",
+    "frequencyRank": 145
+  },
+  {
+    "word": "minute",
+    "phonetic": "/'minit. mai'nju:t/",
+    "translation": "分, 分钟, 片刻, 备忘录, 笔记；记录, 摘录, 测定时间；微小的, 详细的",
+    "example": "The market begins five minutes earlier this week.",
+    "exampleTranslation": "这周市场提前五分钟开始。",
+    "id": "word-146",
+    "frequencyRank": 146
+  },
+  {
+    "word": "several",
+    "phonetic": "/'sevәrәl/",
+    "translation": "几个的, 一些的, 各自的；几个",
+    "example": "We sailed down the river for several miles.",
+    "exampleTranslation": "我们顺流而下航行了几英里。",
+    "id": "word-147",
+    "frequencyRank": 147
+  },
+  {
+    "word": "nothing",
+    "phonetic": "/'nʌθiŋ/",
+    "translation": "无, 不关紧要之事, 零；毫不, 决不；interj. 什么也没有, 无",
+    "example": "Be satisfied with nothing but your best.",
+    "exampleTranslation": "除了做到最好，不要满足。",
+    "id": "word-148",
+    "frequencyRank": 148
+  },
+  {
+    "word": "watch",
+    "phonetic": "/wɒtʃ/",
+    "translation": "观察, 手表, 看守, 守护, 监视, 值班人；看, 注视, 照顾, 看守, 守护, 监视；观看, 注视, 守侯",
+    "example": "I stood, a little mite of a girl, upon a chair by the window, and watched the falling snowflakes.",
+    "exampleTranslation": "我站在窗边的椅子上，一个小不点的女孩，看着飘落的雪花。",
+    "id": "word-149",
+    "frequencyRank": 149
+  },
+  {
+    "word": "together",
+    "phonetic": "/tә'geðә/",
+    "translation": "一起, 共同, 彼此",
+    "example": "You and I will go together.",
+    "exampleTranslation": "你和我将一起去。",
+    "id": "word-150",
+    "frequencyRank": 150
+  },
+  {
+    "word": "stop",
+    "phonetic": "/stɒp/",
+    "translation": "停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓；停止, 被塞住；塞住, 堵塞, 阻止, 击落, 停止, 终止, 断绝",
+    "example": "The rain has stopped.",
+    "exampleTranslation": "雨停了。",
+    "id": "word-151",
+    "frequencyRank": 151
+  },
+  {
+    "word": "face",
+    "phonetic": "/feis/",
+    "translation": "脸, 面容, 正面, 外观；面对, 朝, 正视, 面临；朝, 向",
+    "example": "The west wind blew across my face like a friendly caress.",
+    "exampleTranslation": "西风吹过我的脸，就像友好的爱抚。",
+    "id": "word-152",
+    "frequencyRank": 152
+  },
+  {
+    "word": "door",
+    "phonetic": "/dɒ:/",
+    "translation": "门",
+    "example": "They opened all the doors and windows.",
+    "exampleTranslation": "他们打开了所有的门窗。",
+    "id": "word-153",
+    "frequencyRank": 153
+  },
+  {
+    "word": "sure",
+    "phonetic": "/ʃuә/",
+    "translation": "确信, 必然的, 必定的；当然, 确实地, 无疑地",
+    "example": "I am sure that we can go.",
+    "exampleTranslation": "我确定我们可以去。",
+    "id": "word-154",
+    "frequencyRank": 154
+  },
+  {
+    "word": "history",
+    "phonetic": "/'histәri/",
+    "translation": "历史, 过去, 经历, 发展过程, 历史学, 过去的事, 历史记录；[计] 历史记录",
+    "example": "Show the guests these shells, my son, and tell them their strange history.",
+    "exampleTranslation": "给客人看这些贝壳，我的儿子，告诉他们它们奇怪的历史。",
+    "id": "word-155",
+    "frequencyRank": 155
+  },
+  {
+    "word": "grow",
+    "phonetic": "/grәu/",
+    "translation": "种植, 使长满；生长, 变成, 发展",
+    "example": "Lovely flowers are growing everywhere.",
+    "exampleTranslation": "可爱的花朵到处生长。",
+    "id": "word-156",
+    "frequencyRank": 156
+  },
+  {
+    "word": "open",
+    "phonetic": "/'әupәn/",
+    "translation": "公开, 户外, 空旷；开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的；打开, 公开, 开放",
+    "example": "They opened all the doors and windows.",
+    "exampleTranslation": "他们打开了所有的门窗。",
+    "id": "word-157",
+    "frequencyRank": 157
+  },
+  {
+    "word": "morning",
+    "phonetic": "/'mɒ:niŋ/",
+    "translation": "早晨, 早上, 初期",
+    "example": "On a Sunny morning after the solstice we started for the mountains.",
+    "exampleTranslation": "在夏至后的一个阳光明媚的早晨，我们出发去山里。",
+    "id": "word-158",
+    "frequencyRank": 158
+  },
+  {
+    "word": "walk",
+    "phonetic": "/wɒ:k/",
+    "translation": "走, 散步, 步行, 行走的路程, 竞走, 散步场所；走路, 步行, 处世；走过, 遛, 使走, 护送...走",
+    "example": "My little kitten walked away.",
+    "exampleTranslation": "我的小猫走开了。",
+    "id": "word-159",
+    "frequencyRank": 159
+  },
+  {
+    "word": "low",
+    "phonetic": "/lәu/",
+    "translation": "低点, 低价, 低, 牛叫声；低的, 消沉的, 低等的, 浅的, 卑贱的；低下地, 谦卑地, 低",
+    "example": "This cottage stood on a low hill, at some distance from the village.",
+    "exampleTranslation": "这座小屋坐落在一座低矮的小山上，离村庄有一段距离。",
+    "id": "word-160",
+    "frequencyRank": 160
+  },
+  {
+    "word": "win",
+    "phonetic": "/win/",
+    "translation": "赢得, 打胜, 成功；获胜, 达到, 影响；胜利, 赢, 收益",
+    "example": "They won the first two games, but lost the last one.",
+    "exampleTranslation": "他们赢了前两场比赛，但输了最后一场。",
+    "id": "word-161",
+    "frequencyRank": 161
+  },
+  {
+    "word": "girl",
+    "phonetic": "/gә:l/",
+    "translation": "女孩, 少女, 女佣",
+    "example": "The little girl seemed lonely.",
+    "exampleTranslation": "小女孩似乎很孤独。",
+    "id": "word-162",
+    "frequencyRank": 162
+  },
+  {
+    "word": "early",
+    "phonetic": "/'ә:li/",
+    "translation": "早的, 早熟的；很早, 初",
+    "example": "Come early next Monday if you can.",
+    "exampleTranslation": "如果可以的话，下周一早点来。",
+    "id": "word-163",
+    "frequencyRank": 163
+  },
+  {
+    "word": "himself",
+    "phonetic": "/him'self/",
+    "translation": "他自己, 他亲自",
+    "example": "He proved himself trustworthy.",
+    "exampleTranslation": "他证明了自己值得信赖。",
+    "id": "word-164",
+    "frequencyRank": 164
+  },
+  {
+    "word": "enough",
+    "phonetic": "/i'nʌf/",
+    "translation": "充足, 够, 很多；充足的, 足够；足够",
+    "example": "Are you warm enough now?",
+    "exampleTranslation": "你现在够暖和了吗？",
+    "id": "word-165",
+    "frequencyRank": 165
+  },
+  {
+    "word": "across",
+    "phonetic": "/ә'krɒs/",
+    "translation": "越过, 穿过, 与...相交叉, 在...的对面；交叉, 到另一边, 在对面, 成十字",
+    "example": "The spool of thread rolled across the floor.",
+    "exampleTranslation": "线轴滚过地板。",
+    "id": "word-166",
+    "frequencyRank": 166
+  },
+  {
+    "word": "foot",
+    "phonetic": "/fut/",
+    "translation": "脚, 步调, 英尺, 底部, 末尾, 步兵；走在...上, 给...换底, 支付；跳舞, 步行, 总计",
+    "example": "\"This tree is fifty feet high,\" said the gardener.",
+    "exampleTranslation": "“这棵树有五十英尺高，”园丁说。",
+    "id": "word-167",
+    "frequencyRank": 167
+  },
+  {
+    "word": "boy",
+    "phonetic": "/bɒi/",
+    "translation": "男孩；[法] 男孩, 少年, 儿子",
+    "example": "The two boys are working together.",
+    "exampleTranslation": "两个男孩正在一起工作。",
+    "id": "word-168",
+    "frequencyRank": 168
+  },
+  {
+    "word": "love",
+    "phonetic": "/lʌv/",
+    "translation": "爱, 恋爱, 爱情, 爱好, 性爱；爱, 爱好, 爱慕；爱",
+    "example": "We are a brave people, and love our country.",
+    "exampleTranslation": "我们是勇敢的人民，热爱我们的国家。",
+    "id": "word-169",
+    "frequencyRank": 169
+  },
+  {
+    "word": "consider",
+    "phonetic": "/kәn'sidŋ/",
+    "translation": "考虑, 思考, 认为",
+    "example": "We consider them our faithful friends.",
+    "exampleTranslation": "我们认为他们是我们忠实的朋友。",
+    "id": "word-170",
+    "frequencyRank": 170
+  },
+  {
+    "word": "probably",
+    "phonetic": "/'prɒbәbli/",
+    "translation": "大概, 或许",
+    "example": "This mist will probably clear away.",
+    "exampleTranslation": "这雾可能会散去。",
+    "id": "word-171",
+    "frequencyRank": 171
+  },
+  {
+    "word": "wait",
+    "phonetic": "/weit/",
+    "translation": "等待, 等候；等候, 期待, 延缓, 伺候, 推迟；等, 等候, 耽搁, 伺候用餐",
+    "example": "Are you waiting for me?",
+    "exampleTranslation": "你在等我吗？",
+    "id": "word-172",
+    "frequencyRank": 172
+  },
+  {
+    "word": "market",
+    "phonetic": "/'mɑ:kit/",
+    "translation": "市场, 交易, 集市, 推销地区, 行情, 市面, 销路；在市场上交易, 使上市, 销售；在市场上买卖",
+    "example": "The market begins five minutes earlier this week.",
+    "exampleTranslation": "这周市场提前五分钟开始。",
+    "id": "word-173",
+    "frequencyRank": 173
+  },
+  {
+    "word": "send",
+    "phonetic": "/send/",
+    "translation": "发送, 使进入, 寄, 派遣, 发射, 使陷于；寄信, 派人, 播送；(船的)上升运动",
+    "example": "Will you send this message for me?",
+    "exampleTranslation": "你会帮我发这条信息吗？",
+    "id": "word-174",
+    "frequencyRank": 174
+  },
+  {
+    "word": "build",
+    "phonetic": "/bild/",
+    "translation": "建立, 建筑；构造, 体格",
+    "example": "A robin has built his nest in the apple tree.",
+    "exampleTranslation": "一只知更鸟在苹果树上筑了巢。",
+    "id": "word-175",
+    "frequencyRank": 175
+  },
+  {
+    "word": "stay",
+    "phonetic": "/stei/",
+    "translation": "停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索；制止, 延缓, 坚持, 支持, 支撑, 用支索固定；停留, 逗留, 暂停, 坚持, 中止",
+    "example": "I shall stay at home if it rains.",
+    "exampleTranslation": "如果下雨我就待在家里。",
+    "id": "word-176",
+    "frequencyRank": 176
+  },
+  {
+    "word": "fall",
+    "phonetic": "/fɒ:l/",
+    "translation": "落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天；倒下, 落下, 来临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低；秋天的",
+    "example": "Have all the leaves fallen from the tree?",
+    "exampleTranslation": "所有的叶子都从树上掉下来了吗？",
+    "id": "word-177",
+    "frequencyRank": 177
+  },
+  {
+    "word": "oh",
+    "phonetic": "/әu/",
+    "translation": "interj. (表示惊讶、恐怖、赞叹)哦",
+    "example": "Oh, dear! the wind has blown my hat away!",
+    "exampleTranslation": "哦，天哪！风把我的帽子吹走了！",
+    "id": "word-178",
+    "frequencyRank": 178
+  },
+  {
+    "word": "interest",
+    "phonetic": "/'intrist/",
+    "translation": "兴趣, 嗜好, 利息, 利益, 爱好, 趣味, 势力；使感兴趣, 与...有关系",
+    "example": "The first part of the story is very interesting.",
+    "exampleTranslation": "故事的第一部分非常有趣。",
+    "id": "word-179",
+    "frequencyRank": 179
+  },
+  {
+    "word": "course",
+    "phonetic": "/kɒ:s/",
+    "translation": "课程, 路线, 过程, 一道菜, 道路；追, (使)跑",
+    "example": "Near the mouth of the river, its course turns sharply towards the East.",
+    "exampleTranslation": "在河口附近，它的流向急剧转向东方。",
+    "id": "word-180",
+    "frequencyRank": 180
+  },
+  {
+    "word": "remain",
+    "phonetic": "/ri'mein/",
+    "translation": "保持, 逗留, 剩余；[法] 停留, 居住, 继续",
+    "example": "In our climate the grass remains green all winter.",
+    "exampleTranslation": "在我们的气候中，草整个冬天都保持绿色。",
+    "id": "word-181",
+    "frequencyRank": 181
+  },
+  {
+    "word": "raise",
+    "phonetic": "/reiz/",
+    "translation": "上升, 高地, 增高；升起, 举起, 唤起, 提高, 使出现, 使复活, 提出, 筹集, 饲养",
+    "example": "The crow dropped some pebbles into the pitcher and raised the water to the brim.",
+    "exampleTranslation": "乌鸦把一些鹅卵石扔进水罐里，把水升到了边缘。",
+    "id": "word-182",
+    "frequencyRank": 182
+  },
+  {
+    "word": "late",
+    "phonetic": "/leit/",
+    "translation": "迟的, 晚的, 已故的；很晚, 很迟, 晚",
+    "example": "They heard the warning too late.",
+    "exampleTranslation": "他们听到警告太晚了。",
+    "id": "word-183",
+    "frequencyRank": 183
+  },
+  {
+    "word": "better",
+    "phonetic": "/'betә/",
+    "translation": "较好的；比较好",
+    "example": "Do you like summer or winter better?",
+    "exampleTranslation": "你更喜欢夏天还是冬天？",
+    "id": "word-184",
+    "frequencyRank": 184
+  },
+  {
+    "word": "strong",
+    "phonetic": "/strɒŋ/",
+    "translation": "强壮的, 坚固的, 坚强的, 强烈的, 有力的, 优良的；强劲地, 有力地, 猛烈地",
+    "example": "He is small, but strong.",
+    "exampleTranslation": "他很小，但很强壮。",
+    "id": "word-185",
+    "frequencyRank": 185
+  },
+  {
+    "word": "light",
+    "phonetic": "/lait/",
+    "translation": "光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光；轻的, 少量的, 轻微的, 轻快的, 轻浮的, 明亮的, 淡色的, 容易的；点燃, 照亮",
+    "example": "Light travels faster than sound.",
+    "exampleTranslation": "光比声音传播得快。",
+    "id": "word-186",
+    "frequencyRank": 186
+  },
+  {
+    "word": "voice",
+    "phonetic": "/vɒis/",
+    "translation": "声音, 嗓音, 嗓子, 愿望, 发言权, 表达, 喉舌, 语态；表达, 吐露, 调音",
+    "example": "Their voices sound very happy.",
+    "exampleTranslation": "他们的声音听起来很开心。",
+    "id": "word-187",
+    "frequencyRank": 187
+  },
+  {
+    "word": "wife",
+    "phonetic": "/waif/",
+    "translation": "妻子, 太太, 夫人；[法] 妻子, 已婚妇女",
+    "example": "He was very poor, and with his wife and five children lived in a little low cabin of logs and stones.",
+    "exampleTranslation": "他很穷，和他的妻子及五个孩子住在一个由原木和石头建成的小低矮小屋里。",
+    "id": "word-188",
+    "frequencyRank": 188
+  },
+  {
+    "word": "mind",
+    "phonetic": "/maind/",
+    "translation": "思想, 愿望, 智力, 记忆, 心理, 情绪, 理智, 主意, 心意；介意, 注意, 留心；注意, 留意, 专心于, 照看, 介意",
+    "example": "Do not laugh at me because I seem so absent minded.",
+    "exampleTranslation": "不要嘲笑我，因为我看起来心不在焉。",
+    "id": "word-189",
+    "frequencyRank": 189
+  },
+  {
+    "word": "son",
+    "phonetic": "/sʌn/",
+    "translation": "儿子, 女婿, 子孙；[法] 儿子, 女婿, 养子",
+    "example": "Show the guests these shells, my son, and tell them their strange history.",
+    "exampleTranslation": "给客人看这些贝壳，我的儿子，告诉他们它们奇怪的历史。",
+    "id": "word-190",
+    "frequencyRank": 190
+  },
+  {
+    "word": "hope",
+    "phonetic": "/hәup/",
+    "translation": "希望, 信心, 期待；希望, 期望, 信赖",
+    "example": "I hope the rain stops soon.",
+    "exampleTranslation": "我希望雨很快停。",
+    "id": "word-191",
+    "frequencyRank": 191
+  },
+  {
+    "word": "carry",
+    "phonetic": "/'kæri/",
+    "translation": "进位, 射程, 运载；携带, 运送, 支持, 传送, 包含；被携带, 能达到",
+    "example": "Take this note, carry it to your mother; and wait for an answer.",
+    "exampleTranslation": "拿着这张纸条，把它带给你的母亲；并等待回复。",
+    "id": "word-192",
+    "frequencyRank": 192
+  },
+  {
+    "word": "road",
+    "phonetic": "/rәud/",
+    "translation": "路, 道路, 公路, 途径, 方法；[法] 公路, 道路, 行车道",
+    "example": "The house stands where three roads meet.",
+    "exampleTranslation": "房子就在三条路交汇的地方。",
+    "id": "word-193",
+    "frequencyRank": 193
+  },
+  {
+    "word": "break",
+    "phonetic": "/breik/",
+    "translation": "休息, 中断, 破裂处, 绝交, 破晓, 突变；打破, 弄破, 弄坏, 破坏, 违反, 打断, 削弱, 放弃；破碎, 决裂, 破晓, 突变, 变弱, 暂停",
+    "example": "The little girl's doll is broken.",
+    "exampleTranslation": "小女孩的洋娃娃坏了。",
+    "id": "word-194",
+    "frequencyRank": 194
+  },
+  {
+    "word": "building",
+    "phonetic": "/'bildiŋ/",
+    "translation": "建筑物, 建筑；[法] 营造, 建筑, 建筑物",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-195",
+    "frequencyRank": 195
+  },
+  {
+    "word": "full",
+    "phonetic": "/ful/",
+    "translation": "全部, 完整；充满的, 完全的, 丰富的, 完美的, 丰满的, 详尽的；完全地, 整整, 十分",
+    "example": "The streets are full of people.",
+    "exampleTranslation": "街上到处都是人。",
+    "id": "word-196",
+    "frequencyRank": 196
+  },
+  {
+    "word": "wear",
+    "phonetic": "/wєә/",
+    "translation": "穿着, 戴, 使用, 耗损, 服装, 耐久性；穿着, 戴, 留(须、发等), 呈现, 磨损, 磨成, 耗损, 使疲乏, 消磨；磨损, 变旧, 耐久, 渐变, 渐渐消失",
+    "example": "They wore red caps, the symbol of liberty.",
+    "exampleTranslation": "他们戴着红帽子，这是自由的象征。",
+    "id": "word-197",
+    "frequencyRank": 197
+  },
+  {
+    "word": "ground",
+    "phonetic": "/graund/",
+    "translation": "土地, 战场, 场地, 地面, 范围；土地的, 地面上的；放在地上, 使搁浅, 打基础, 给...以训练",
+    "example": "Gnomes are little men who live under the ground.",
+    "exampleTranslation": "侏儒是住在地下的小矮人。",
+    "id": "word-198",
+    "frequencyRank": 198
+  },
+  {
+    "word": "whose",
+    "phonetic": "/hu:z/",
+    "translation": "谁的",
+    "example": "I had a younger brother whose name was Antonio.",
+    "exampleTranslation": "我有一个弟弟，他的名字叫安东尼奥。",
+    "id": "word-199",
+    "frequencyRank": 199
+  },
+  {
+    "word": "table",
+    "phonetic": "/'teibl/",
+    "translation": "桌子, 餐桌, 工作台, 铭文, 表格, 表, 高原, 平地层；搁置, 嵌合, 制表, 把...列入议事日程；[计] 表格, 模拟运算表",
+    "example": "The kitten jumped onto the table.",
+    "exampleTranslation": "小猫跳到了桌子上。",
+    "id": "word-200",
+    "frequencyRank": 200
+  },
+  {
+    "word": "eat",
+    "phonetic": "/i:t/",
+    "translation": "吃, 腐蚀",
+    "example": "We should eat more slowly.",
+    "exampleTranslation": "我们应该吃得慢一点。",
+    "id": "word-201",
+    "frequencyRank": 201
+  },
+  {
+    "word": "street",
+    "phonetic": "/stri:t/",
+    "translation": "街道, 马路, 街区；街道的",
+    "example": "The streets are full of people.",
+    "exampleTranslation": "街上到处都是人。",
+    "id": "word-202",
+    "frequencyRank": 202
+  },
+  {
+    "word": "cover",
+    "phonetic": "/'kʌvә/",
+    "translation": "盖子, 封面, 藉口；覆盖, 掩饰, 保护, 掩护, 包括；覆盖",
+    "example": "The cover of the basket fell to the floor.",
+    "exampleTranslation": "篮子的盖子掉到了地上。",
+    "id": "word-203",
+    "frequencyRank": 203
+  },
+  {
+    "word": "clear",
+    "phonetic": "/kliә/",
+    "translation": "清楚的, 明确的, 澄清的；清晰地；澄清, 清除障碍",
+    "example": "This mist will probably clear away.",
+    "exampleTranslation": "这雾可能会散去。",
+    "id": "word-204",
+    "frequencyRank": 204
+  },
+  {
+    "word": "news",
+    "phonetic": "/nju:z/",
+    "translation": "新闻, 消息, 报导；[法] 新闻, 消息, 新闻报导",
+    "example": "Alas! that news is sad indeed!",
+    "exampleTranslation": "唉！那个消息确实很悲伤！",
+    "id": "word-205",
+    "frequencyRank": 205
+  },
+  {
+    "word": "catch",
+    "phonetic": "/kætʃ/",
+    "translation": "捕捉, 陷阱, 捕捉之物, 抓, 拉手；捕捉, 赶上, 感染, 听清楚；抓住, 燃着",
+    "example": "Aha! I have caught you!",
+    "exampleTranslation": "啊哈！我抓住你了！",
+    "id": "word-206",
+    "frequencyRank": 206
+  },
+  {
+    "word": "baby",
+    "phonetic": "/'beibi/",
+    "translation": "婴孩；[医] 婴儿",
+    "example": "The baby clapped her hands and laughed in glee.",
+    "exampleTranslation": "婴儿拍着手，高兴地笑了。",
+    "id": "word-207",
+    "frequencyRank": 207
+  },
+  {
+    "word": "tree",
+    "phonetic": "/tri:/",
+    "translation": "树, 木料, 树状物；把...赶上树；[计] 树; DOS外部命令:显示指定磁盘驱动器的目录结构",
+    "example": "Is this tree an oak or a maple?",
+    "exampleTranslation": "这棵树是橡树还是枫树？",
+    "id": "word-208",
+    "frequencyRank": 208
+  },
+  {
+    "word": "red",
+    "phonetic": "/red/",
+    "translation": "红的, 红色的, 红肿的, 流血的；红色, 红颜料, 赤字；[计] 简化, 减少",
+    "example": "Among the wheat grew tall red poppies.",
+    "exampleTranslation": "在小麦中生长着高大的红罂粟。",
+    "id": "word-209",
+    "frequencyRank": 209
+  },
+  {
+    "word": "window",
+    "phonetic": "/'windәu/",
+    "translation": "窗户, 窗子, 窗口；给...开窗；[计] 窗口",
+    "example": "They opened all the doors and windows.",
+    "exampleTranslation": "他们打开了所有的门窗。",
+    "id": "word-210",
+    "frequencyRank": 210
+  },
+  {
+    "word": "listen",
+    "phonetic": "/'lisn/",
+    "translation": "听, 倾听, 听从；听, 倾听",
+    "example": "Listen.",
+    "exampleTranslation": "听。",
+    "id": "word-211",
+    "frequencyRank": 211
+  },
+  {
+    "word": "soon",
+    "phonetic": "/su:n/",
+    "translation": "不久, 早, 快, 宁可",
+    "example": "He will arrive soon.",
+    "exampleTranslation": "他很快就会到。",
+    "id": "word-212",
+    "frequencyRank": 212
+  },
+  {
+    "word": "brother",
+    "phonetic": "/'brʌðә/",
+    "translation": "兄弟",
+    "example": "Can your brother dance well?",
+    "exampleTranslation": "你的兄弟能跳舞跳得好吗？",
+    "id": "word-213",
+    "frequencyRank": 213
+  },
+  {
+    "word": "summer",
+    "phonetic": "/'sʌmә/",
+    "translation": "夏季, 全盛时期；避暑, 过夏天；[计] 加法器",
+    "example": "Do you like summer or winter better?",
+    "exampleTranslation": "你更喜欢夏天还是冬天？",
+    "id": "word-214",
+    "frequencyRank": 214
+  },
+  {
+    "word": "plant",
+    "phonetic": "/plænt. plɑ:nt/",
+    "translation": "植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备；种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于；种植",
+    "example": "A box of growing plants stood in the Window.",
+    "exampleTranslation": "一盒生长的植物站在窗台上。",
+    "id": "word-215",
+    "frequencyRank": 215
+  },
+  {
+    "word": "short",
+    "phonetic": "/ʃɒ:t/",
+    "translation": "短的, 近的, 矮的, 短期的, 简短的, 少量的；简短地, 突然；扼要, 短片, 缺乏",
+    "example": "This string is too short!",
+    "exampleTranslation": "这根绳子太短了！",
+    "id": "word-216",
+    "frequencyRank": 216
+  },
+  {
+    "word": "floor",
+    "phonetic": "/flɒ:/",
+    "translation": "地板, 楼层, 底部, 底价；铺地板, 打倒；地面, 地板, 基底",
+    "example": "The cover of the basket fell to the floor.",
+    "exampleTranslation": "篮子的盖子掉到了地上。",
+    "id": "word-217",
+    "frequencyRank": 217
+  },
+  {
+    "word": "close",
+    "phonetic": "/klәuz/",
+    "translation": "结束, 完结；靠近的, 亲近的, 亲密的, 严密的, 关闭的, 狭窄的, 秘密的；关, 结束, 使靠近, 封闭, 使接近",
+    "example": "Evidently that gate is never opened, for the long grass and the great hemlocks grow close against it.",
+    "exampleTranslation": "显然那扇门从未被打开过，因为长草和大毒芹紧挨着它生长。",
+    "id": "word-218",
+    "frequencyRank": 218
+  },
+  {
+    "word": "fire",
+    "phonetic": "/'faiә/",
+    "translation": "火, 炉火, 电炉, 火灾, 闪光体, 炮火, 热情；点燃, 烧制, 使发光, 激动, 放枪, 解雇；着火, 烧火, 开枪, 射击, 激动",
+    "example": "The fire feels hot.",
+    "exampleTranslation": "火感觉很热。",
+    "id": "word-219",
+    "frequencyRank": 219
+  },
+  {
+    "word": "myself",
+    "phonetic": "/mai'self/",
+    "translation": "我自己, 我亲自, 我独自",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-220",
+    "frequencyRank": 220
+  },
+  {
+    "word": "west",
+    "phonetic": "/west/",
+    "translation": "西方, 西部；西方的, 向西的；向西, 自西方, 在西方",
+    "example": "The west wind blew across my face like a friendly caress.",
+    "exampleTranslation": "西风吹过我的脸，就像友好的爱抚。",
+    "id": "word-221",
+    "frequencyRank": 221
+  },
+  {
+    "word": "throw",
+    "phonetic": "/θrәu/",
+    "translation": "投, 掷, 抛, 发射, 摔下, 匆匆穿上(或脱下), 抛弃, 摆脱；丢, 掷, 抛；投掷, 掷骰子, 冒险",
+    "example": "Jack seized a handful of pebbles and threw them into the lake.",
+    "exampleTranslation": "杰克抓了一把鹅卵石，把它们扔进了湖里。",
+    "id": "word-222",
+    "frequencyRank": 222
+  },
+  {
+    "word": "top",
+    "phonetic": "/tɒp/",
+    "translation": "顶部, 顶端, 极点, 上面, 上部, 顶篷, 最高地位, 首位, 陀螺；最高的, 顶上的, 头等的；盖, 加以顶, 高达, 超越",
+    "example": "On the top of the hill in a little hut lived a wise old woman.",
+    "exampleTranslation": "在山顶的一个小棚屋里住着一位聪明的老妇人。",
+    "id": "word-223",
+    "frequencyRank": 223
+  },
+  {
+    "word": "order",
+    "phonetic": "/'ɒ:dә/",
+    "translation": "次序, 规则, 命令；命令, 定货；整理, 命令, 定购",
+    "example": "These are the flowers that you ordered.",
+    "exampleTranslation": "这些是你订购的花。",
+    "id": "word-224",
+    "frequencyRank": 224
+  },
+  {
+    "word": "drop",
+    "phonetic": "/drɒp/",
+    "translation": "滴, 微量, 落下, 空投；放下, 掉下, 下降；使滴下, 放下, 丢失, 遗漏",
+    "example": "The crow dropped some pebbles into the pitcher and raised the water to the brim.",
+    "exampleTranslation": "乌鸦把一些鹅卵石扔进水罐里，把水升到了边缘。",
+    "id": "word-225",
+    "frequencyRank": 225
+  },
+  {
+    "word": "upon",
+    "phonetic": "/ә'pɒn/",
+    "translation": "在...之上, 迫近, 紧接着",
+    "example": "The sun looked down through the branches upon the children at play.",
+    "exampleTranslation": "太阳透过树枝俯视着玩耍的孩子们。",
+    "id": "word-226",
+    "frequencyRank": 226
+  },
+  {
+    "word": "sound",
+    "phonetic": "/saund/",
+    "translation": "声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡；健全的, 可靠的, 合理的, 健康的, 彻底的, 资金充实的；彻底地, 充分地",
+    "example": "Their voices sound very happy.",
+    "exampleTranslation": "他们的声音听起来很开心。",
+    "id": "word-227",
+    "frequencyRank": 227
+  },
+  {
+    "word": "note",
+    "phonetic": "/nәut/",
+    "translation": "笔记, 记录, 注解, 票据, 符号, 显要, 注重, 便笺, 照会；记录, 注解, 注意",
+    "example": "Take this note, carry it to your mother; and wait for an answer.",
+    "exampleTranslation": "拿着这张纸条，把它带给你的母亲；并等待回复。",
+    "id": "word-228",
+    "frequencyRank": 228
+  },
+  {
+    "word": "fine",
+    "phonetic": "/fain/",
+    "translation": "罚款, 罚金, 晴天, 精细；好的, 晴朗的, 健康的, 细小的, 精细的；罚款, 精炼, 澄清",
+    "example": "On a fine summer evening, the two old people were sitting outside the door of their cottage.",
+    "exampleTranslation": "在一个美好的夏日傍晚，两位老人正坐在他们的小屋门外。",
+    "id": "word-229",
+    "frequencyRank": 229
+  },
+  {
+    "word": "near",
+    "phonetic": "/niә/",
+    "translation": "近的, 近亲的, 近似的；接近, 亲近；靠近, 近似于",
+    "example": "A little girl with a kitten sat near me.",
+    "exampleTranslation": "一个带着小猫的小女孩坐在我旁边。",
+    "id": "word-230",
+    "frequencyRank": 230
+  },
+  {
+    "word": "poor",
+    "phonetic": "/puә. pɒ:/",
+    "translation": "贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙的；[经] 低劣的, 不良的",
+    "example": "He was very poor, and with his wife and five children lived in a little low cabin of logs and stones.",
+    "exampleTranslation": "他很穷，和他的妻子及五个孩子住在一个由原木和石头建成的小低矮小屋里。",
+    "id": "word-231",
+    "frequencyRank": 231
+  },
+  {
+    "word": "hot",
+    "phonetic": "/hɒt/",
+    "translation": "热的, 热心的, 辣的, 热情的, 激动的, 猛烈的, 紧迫的；热, 紧迫地",
+    "example": "The fire feels hot.",
+    "exampleTranslation": "火感觉很热。",
+    "id": "word-232",
+    "frequencyRank": 232
+  },
+  {
+    "word": "usually",
+    "phonetic": "/'ju:ʒuәli/",
+    "translation": "通常, 大抵",
+    "example": "I usually sleep soundly.",
+    "exampleTranslation": "我通常睡得很香。",
+    "id": "word-233",
+    "frequencyRank": 233
+  },
+  {
+    "word": "rise",
+    "phonetic": "/raiz/",
+    "translation": "上升, 增加, 上涨, 高地, 升高, 出现；升起, 起身, 起立, 上升, 上涨, 增长, 高耸, 起义, 浮现；使飞起",
+    "example": "The sun is rising now.",
+    "exampleTranslation": "太阳现在正在升起。",
+    "id": "word-234",
+    "frequencyRank": 234
+  },
+  {
+    "word": "animal",
+    "phonetic": "/'ænimәl/",
+    "translation": "动物；[医] 动物",
+    "example": "Once wild animals lived here.",
+    "exampleTranslation": "曾经有野生动物住在这里。",
+    "id": "word-235",
+    "frequencyRank": 235
+  },
+  {
+    "word": "east",
+    "phonetic": "/i:st/",
+    "translation": "东方, 东；东方的, 向东的；向东方, 朝东方",
+    "example": "Near the mouth of the river, its course turns sharply towards the East.",
+    "exampleTranslation": "在河口附近，它的流向急剧转向东方。",
+    "id": "word-236",
+    "frequencyRank": 236
+  },
+  {
+    "word": "happy",
+    "phonetic": "/'hæpi/",
+    "translation": "快乐的, 幸福的, 愉快的, 恰当的",
+    "example": "I am very happy.",
+    "exampleTranslation": "我很开心。",
+    "id": "word-237",
+    "frequencyRank": 237
+  },
+  {
+    "word": "lie",
+    "phonetic": "/lai/",
+    "translation": "谎言, 假象, 位置；躺着, 说谎, 位于, 展现, 存在, 停泊；谎骗",
+    "example": "Between the two lofty mountains lay a fertile valley.",
+    "exampleTranslation": "在两座高山之间躺着一个肥沃的山谷。",
+    "id": "word-238",
+    "frequencyRank": 238
+  },
+  {
+    "word": "dog",
+    "phonetic": "/dɒg/",
+    "translation": "狗, 坏蛋；跟踪, 尾随",
+    "example": "Henry's dog is lost.",
+    "exampleTranslation": "亨利的狗丢了。",
+    "id": "word-239",
+    "frequencyRank": 239
+  },
+  {
+    "word": "ready",
+    "phonetic": "/'redi/",
+    "translation": "预备好的状态, 现款；准备好的, 备用的, 可以使用的；预先, 迅速",
+    "example": "Will you be ready on time?",
+    "exampleTranslation": "你会准时准备好吗？",
+    "id": "word-240",
+    "frequencyRank": 240
+  },
+  {
+    "word": "thought",
+    "phonetic": "/θɒ:t/",
+    "translation": "想法, 思想, 思维, 关心, 挂念；think的过去式和过去分词",
+    "example": "Think first and then act.",
+    "exampleTranslation": "先思考，后行动。",
+    "id": "word-241",
+    "frequencyRank": 241
+  },
+  {
+    "word": "answer",
+    "phonetic": "/'ɑ:nsә/",
+    "translation": "答案, 回答, 回报, 答辩；回答, 反驳, 适应, 响应, 符合；回答, 答应, 负责, 符合, 成功",
+    "example": "Take this note, carry it to your mother; and wait for an answer.",
+    "exampleTranslation": "拿着这张纸条，把它带给你的母亲；并等待回复。",
+    "id": "word-242",
+    "frequencyRank": 242
+  },
+  {
+    "word": "left",
+    "phonetic": "/left/",
+    "translation": "左边的, 左倾的, 左侧的, 左派的；在左面；左, 左面, 左派",
+    "example": "Did the man leave?",
+    "exampleTranslation": "那个人走了吗？",
+    "id": "word-243",
+    "frequencyRank": 243
+  },
+  {
+    "word": "meeting",
+    "phonetic": "/'mi:tiŋ/",
+    "translation": "会议, 会面；[法] 会议, 会谈, 集会",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-244",
+    "frequencyRank": 244
+  },
+  {
+    "word": "herself",
+    "phonetic": "/hә:'self/",
+    "translation": "她自己, 她亲自",
+    "example": "She was talking to herself.",
+    "exampleTranslation": "她在自言自语。",
+    "id": "word-245",
+    "frequencyRank": 245
+  },
+  {
+    "word": "box",
+    "phonetic": "/bɒks/",
+    "translation": "盒子, 箱, 方框, 一巴掌；装...入盒中, 装箱, 打耳光；拳击",
+    "example": "A box of growing plants stood in the Window.",
+    "exampleTranslation": "一盒生长的植物站在窗台上。",
+    "id": "word-246",
+    "frequencyRank": 246
+  },
+  {
+    "word": "training",
+    "phonetic": "/'treiniŋ/",
+    "translation": "训练, 培养；[医] 训练",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-247",
+    "frequencyRank": 247
+  },
+  {
+    "word": "lay",
+    "phonetic": "/lei/",
+    "translation": "放置, 产, 铺设, 布置, 提出, 平息；下蛋, 打赌；位置, 层, 隐藏处",
+    "example": "Between the two lofty mountains lay a fertile valley.",
+    "exampleTranslation": "在两座高山之间躺着一个肥沃的山谷。",
+    "id": "word-248",
+    "frequencyRank": 248
+  },
+  {
+    "word": "feeling",
+    "phonetic": "/'fi:liŋ/",
+    "translation": "摸, 触觉, 知觉, 感觉, 情绪, 同情；有同情心的, 有感觉的, 仁慈的, 动人的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-249",
+    "frequencyRank": 249
+  },
+  {
+    "word": "message",
+    "phonetic": "/'mesidʒ/",
+    "translation": "消息, 通讯, 讯息, 教训, 预言, 广告词；通知；通报, 报告, 报信",
+    "example": "Will you send this message for me?",
+    "exampleTranslation": "你会帮我发这条信息吗？",
+    "id": "word-250",
+    "frequencyRank": 250
+  },
+  {
+    "word": "outside",
+    "phonetic": "/'aut'said/",
+    "translation": "外面, 外表, 外界；外面的, 外表的, 外界的",
+    "example": "On a fine summer evening, the two old people were sitting outside the door of their cottage.",
+    "exampleTranslation": "在一个美好的夏日傍晚，两位老人正坐在他们的小屋门外。",
+    "id": "word-251",
+    "frequencyRank": 251
+  },
+  {
+    "word": "arrive",
+    "phonetic": "/ә'raiv/",
+    "translation": "到达, 抵达",
+    "example": "He will arrive soon.",
+    "exampleTranslation": "他很快就会到。",
+    "id": "word-252",
+    "frequencyRank": 252
+  },
+  {
+    "word": "sister",
+    "phonetic": "/'sistә/",
+    "translation": "姐妹, 姐, 妹, 护士, 修女；姐妹般对待",
+    "example": "Is your sister coming for you?",
+    "exampleTranslation": "你的姐妹来接你吗？",
+    "id": "word-253",
+    "frequencyRank": 253
+  },
+  {
+    "word": "act",
+    "phonetic": "/ækt/",
+    "translation": "行动, 行为, 幕, 法案；行动, 表演, 假装, 见效, 表现, 担当；扮演, 装作",
+    "example": "Think first and then act.",
+    "exampleTranslation": "先思考，后行动。",
+    "id": "word-254",
+    "frequencyRank": 254
+  },
+  {
+    "word": "blue",
+    "phonetic": "/blu:/",
+    "translation": "蓝色；蓝色的, 下流的, 忧郁的；染成蓝色",
+    "example": "Does the sky look blue or gray?",
+    "exampleTranslation": "天空看起来是蓝色的还是灰色的？",
+    "id": "word-255",
+    "frequencyRank": 255
+  },
+  {
+    "word": "indeed",
+    "phonetic": "/in'di:d/",
+    "translation": "的确, 实在, 真正地, 甚至",
+    "example": "Alas! that news is sad indeed!",
+    "exampleTranslation": "唉！那个消息确实很悲伤！",
+    "id": "word-256",
+    "frequencyRank": 256
+  },
+  {
+    "word": "laugh",
+    "phonetic": "/lɑ:f/",
+    "translation": "笑, 笑声；笑, 大笑；以笑表示",
+    "example": "Tom laughed at the monkey's tricks.",
+    "exampleTranslation": "汤姆嘲笑猴子的把戏。",
+    "id": "word-257",
+    "frequencyRank": 257
+  },
+  {
+    "word": "prove",
+    "phonetic": "/pru:v/",
+    "translation": "证明, 查验, 检验, 勘探, 显示；证明是",
+    "example": "He proved himself trustworthy.",
+    "exampleTranslation": "他证明了自己值得信赖。",
+    "id": "word-258",
+    "frequencyRank": 258
+  },
+  {
+    "word": "cold",
+    "phonetic": "/kәuld/",
+    "translation": "感冒, 寒冷；寒冷的, 冷淡的, 冷静的；完全地",
+    "example": "Whew! that cold wind freezes my nose!",
+    "exampleTranslation": "唷！那冷风冻住了我的鼻子！",
+    "id": "word-259",
+    "frequencyRank": 259
+  },
+  {
+    "word": "green",
+    "phonetic": "/gri:n/",
+    "translation": "绿色, 绿色颜料；绿色的, 未成熟的, 新鲜的, 青春的, 无经验的, 脸色发青的",
+    "example": "In our climate the grass remains green all winter.",
+    "exampleTranslation": "在我们的气候中，草整个冬天都保持绿色。",
+    "id": "word-260",
+    "frequencyRank": 260
+  },
+  {
+    "word": "spring",
+    "phonetic": "/spriŋ/",
+    "translation": "春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉；春天的；跳, 弹跳, 涌出, 生长, 裂开, 高耸",
+    "example": "Every spring and fall our cousins pay us a long visit.",
+    "exampleTranslation": "每年春天和秋天，我们的表亲都会长久地拜访我们。",
+    "id": "word-261",
+    "frequencyRank": 261
+  },
+  {
+    "word": "visit",
+    "phonetic": "/'vizit/",
+    "translation": "拜访, 访问, 游览, 视察；拜访, 访问, 参观, 视察, 降临；访问, 参观, 闲谈",
+    "example": "We went to the village for a visit.",
+    "exampleTranslation": "我们去村里参观。",
+    "id": "word-262",
+    "frequencyRank": 262
+  },
+  {
+    "word": "ball",
+    "phonetic": "/bɒ:l/",
+    "translation": "球, 舞会, 球状物；捏成球形",
+    "example": "The baby's ball has rolled away.",
+    "exampleTranslation": "宝宝的球滚走了。",
+    "id": "word-263",
+    "frequencyRank": 263
+  },
+  {
+    "word": "yourself",
+    "phonetic": "/juә'self/",
+    "translation": "你自己",
+    "example": "Do it yourself.",
+    "exampleTranslation": "你自己做。",
+    "id": "word-264",
+    "frequencyRank": 264
+  },
+  {
+    "word": "onto",
+    "phonetic": "/'ɒntu:/",
+    "translation": "在...之上",
+    "example": "The kitten jumped onto the table.",
+    "exampleTranslation": "小猫跳到了桌子上。",
+    "id": "word-265",
+    "frequencyRank": 265
+  },
+  {
+    "word": "wide",
+    "phonetic": "/waid/",
+    "translation": "宽的, 广阔的, 普遍的, 宽阔的, 广泛的, 一般的；广阔地, 遍及各处地, 广泛地；大千世界",
+    "example": "How wide is the River?",
+    "exampleTranslation": "河有多宽？",
+    "id": "word-266",
+    "frequencyRank": 266
+  },
+  {
+    "word": "chair",
+    "phonetic": "/tʃєә/",
+    "translation": "椅子, 显要的席位, 主席；使入座, 使就任要职",
+    "example": "I stood, a little mite of a girl, upon a chair by the window, and watched the falling snowflakes.",
+    "exampleTranslation": "我站在窗边的椅子上，一个小不点的女孩，看着飘落的雪花。",
+    "id": "word-267",
+    "frequencyRank": 267
+  },
+  {
+    "word": "evening",
+    "phonetic": "/'i:vniŋ/",
+    "translation": "傍晚, 晚间, 末期",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-268",
+    "frequencyRank": 268
+  },
+  {
+    "word": "trip",
+    "phonetic": "/trip/",
+    "translation": "旅行, 绊倒, 摔倒, 失足, 差错, 旅程；使跌倒, 使犯错, 使失败；轻快地走, 绊倒, 失误, 犯错, 结巴, 旅行, 远足",
+    "example": "That boy will have a wonderful trip.",
+    "exampleTranslation": "那个男孩将会有一个奇妙的旅行。",
+    "id": "word-269",
+    "frequencyRank": 269
+  },
+  {
+    "word": "fear",
+    "phonetic": "/fiә/",
+    "translation": "恐怖, 害怕, 担心；害怕, 恐惧, 为...担心, 敬畏",
+    "example": "With him as our protector, we fear no danger.",
+    "exampleTranslation": "有他作为我们的保护者，我们不害怕任何危险。",
+    "id": "word-270",
+    "frequencyRank": 270
+  },
+  {
+    "word": "sea",
+    "phonetic": "/si:/",
+    "translation": "海, 海洋, 海浪, 大量；[法] 海, 海洋",
+    "example": "Sea water is salty.",
+    "exampleTranslation": "海水是咸的。",
+    "id": "word-271",
+    "frequencyRank": 271
+  },
+  {
+    "word": "soldier",
+    "phonetic": "/'sәuldʒә/",
+    "translation": "军人, 士兵, 兵蚁；从军, 尽职, 偷懒, 磨洋工",
+    "example": "A company of soldiers marched over the hill and across the meadow.",
+    "exampleTranslation": "一队士兵行军越过山丘，穿过草地。",
+    "id": "word-272",
+    "frequencyRank": 272
+  },
+  {
+    "word": "sing",
+    "phonetic": "/siŋ/",
+    "translation": "唱, 唱歌, 演唱, 鸣, 啼；唱, 歌颂；嗖嗖声",
+    "example": "Play and I will sing.",
+    "exampleTranslation": "演奏吧，我就唱歌。",
+    "id": "word-273",
+    "frequencyRank": 273
+  },
+  {
+    "word": "kitchen",
+    "phonetic": "/'kitʃin/",
+    "translation": "厨房, 全套炊具；[医] 厨房",
+    "example": "The little house had three rooms, a sitting room, a bedroom, and a tiny kitchen.",
+    "exampleTranslation": "这所小房子有三个房间，一个起居室，一个卧室和一个极小的厨房。",
+    "id": "word-274",
+    "frequencyRank": 274
+  },
+  {
+    "word": "painting",
+    "phonetic": "/'peintiŋ/",
+    "translation": "画, 绘画, 油漆；[化] 涂漆",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-275",
+    "frequencyRank": 275
+  },
+  {
+    "word": "mouth",
+    "phonetic": "/mauθ/",
+    "translation": "嘴, 口, 口腔, 口状物；装腔作势说话, 做鬼脸；说出, 做作地说",
+    "example": "Near the mouth of the river, its course turns sharply towards the East.",
+    "exampleTranslation": "在河口附近，它的流向急剧转向东方。",
+    "id": "word-276",
+    "frequencyRank": 276
+  },
+  {
+    "word": "interesting",
+    "phonetic": "/'intristiŋ/",
+    "translation": "有趣的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-277",
+    "frequencyRank": 277
+  },
+  {
+    "word": "travel",
+    "phonetic": "/'trævl/",
+    "translation": "旅行, 游历, 行进；旅行, 行进, 移动, 被传播；旅行, 通过, 使移动",
+    "example": "Light travels faster than sound.",
+    "exampleTranslation": "光比声音传播得快。",
+    "id": "word-278",
+    "frequencyRank": 278
+  },
+  {
+    "word": "wind",
+    "phonetic": "/wind/",
+    "translation": "风, 气息, 气味, 呼吸, 风声, 趋势, 空谈, 卷绕, 弯曲；使通风, 嗅出, 使喘气, 吹号角, 上发条, 缠绕, 包, 绞起, 吊起, 使弯曲, 使迂回；嗅出猎物, 吹响号角, 卷曲, 蜿蜒, 迂回, 缠绕",
+    "example": "Whew! that cold wind freezes my nose!",
+    "exampleTranslation": "唷！那冷风冻住了我的鼻子！",
+    "id": "word-279",
+    "frequencyRank": 279
+  },
+  {
+    "word": "fast",
+    "phonetic": "/fɑ:st/",
+    "translation": "快速的, 紧的；很快地, 紧紧地, 彻底地；绝食, 斋戒",
+    "example": "Light travels faster than sound.",
+    "exampleTranslation": "光比声音传播得快。",
+    "id": "word-280",
+    "frequencyRank": 280
+  },
+  {
+    "word": "bird",
+    "phonetic": "/bә:d/",
+    "translation": "鸟, 羽毛球；打鸟",
+    "example": "The boat sails away, like a bird on the wing.",
+    "exampleTranslation": "船驶向远方，像一只飞翔的鸟。",
+    "id": "word-281",
+    "frequencyRank": 281
+  },
+  {
+    "word": "opinion",
+    "phonetic": "/ә'pinjәn/",
+    "translation": "意见, 评价, 主张；[经] 意见",
+    "example": "My opinion is that the governor will grant him a pardon.",
+    "exampleTranslation": "我的看法是州长会赦免他。",
+    "id": "word-282",
+    "frequencyRank": 282
+  },
+  {
+    "word": "directly",
+    "phonetic": "/di'rektli, dai'rektli/",
+    "translation": "径直地, 直接地, 直率地, 正好地, 直截了当地, (非正式)立即, 马上；一...(就...), 一当...就...；[计] 直接的",
+    "example": "Directly opposite stands a wonderful palace.",
+    "exampleTranslation": "正对面矗立着一座奇妙的宫殿。",
+    "id": "word-283",
+    "frequencyRank": 283
+  },
+  {
+    "word": "hurt",
+    "phonetic": "/hә:t/",
+    "translation": "伤害, 创伤, 损害；伤害, (使)伤心, 危害, 刺痛",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-284",
+    "frequencyRank": 284
+  },
+  {
+    "word": "sky",
+    "phonetic": "/skai/",
+    "translation": "天空, 天色, 天堂；击向空中, 挂在高处；高涨",
+    "example": "Does the sky look blue or gray?",
+    "exampleTranslation": "天空看起来是蓝色的还是灰色的？",
+    "id": "word-285",
+    "frequencyRank": 285
+  },
+  {
+    "word": "sleep",
+    "phonetic": "/sli:p/",
+    "translation": "睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠；睡觉, 睡眠, 静止；睡",
+    "example": "I usually sleep soundly.",
+    "exampleTranslation": "我通常睡得很香。",
+    "id": "word-286",
+    "frequencyRank": 286
+  },
+  {
+    "word": "brain",
+    "phonetic": "/brein/",
+    "translation": "脑；打碎脑部",
+    "example": "He has far more money than brains.",
+    "exampleTranslation": "他的钱比脑子多得多。",
+    "id": "word-287",
+    "frequencyRank": 287
+  },
+  {
+    "word": "beginning",
+    "phonetic": "/bi'giniŋ/",
+    "translation": "开始",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-288",
+    "frequencyRank": 288
+  },
+  {
+    "word": "stick",
+    "phonetic": "/stik/",
+    "translation": "棍, 棒, 刺, 枯枝, 茎, 条状物；插进, 刺入, 钉住, 伸出, 粘贴, 停止；粘住, 停留, 坚持, 陷住, 伸出",
+    "example": "An old man with a walking stick stood beside the fence.",
+    "exampleTranslation": "一个拿着手杖的老人站在篱笆旁。",
+    "id": "word-289",
+    "frequencyRank": 289
+  },
+  {
+    "word": "stone",
+    "phonetic": "/stәun/",
+    "translation": "石头, 宝石, 果核, 纪念碑, 结石；投扔石子, 铺石头；石的, 石制的, 完全的",
+    "example": "He was very poor, and with his wife and five children lived in a little low cabin of logs and stones.",
+    "exampleTranslation": "他很穷，和他的妻子及五个孩子住在一个由原木和石头建成的小低矮小屋里。",
+    "id": "word-290",
+    "frequencyRank": 290
+  },
+  {
+    "word": "slowly",
+    "phonetic": "/'slәuli/",
+    "translation": "慢慢地, 迟缓地",
+    "example": "Slowly she looked around.",
+    "exampleTranslation": "她慢慢地环顾四周。",
+    "id": "word-291",
+    "frequencyRank": 291
+  },
+  {
+    "word": "boat",
+    "phonetic": "/bәut/",
+    "translation": "船；乘船；以船运",
+    "example": "The boat sails away, like a bird on the wing.",
+    "exampleTranslation": "船驶向远方，像一只飞翔的鸟。",
+    "id": "word-292",
+    "frequencyRank": 292
+  },
+  {
+    "word": "sun",
+    "phonetic": "/sʌn/",
+    "translation": "太阳, 日, 日光, 阳光；晒；晒太阳",
+    "example": "The sun shone.",
+    "exampleTranslation": "阳光照耀过。",
+    "id": "word-293",
+    "frequencyRank": 293
+  },
+  {
+    "word": "distance",
+    "phonetic": "/'distәns/",
+    "translation": "距离, 远方, 遥远；[计] 位距",
+    "example": "Did you find the distance too great?",
+    "exampleTranslation": "你觉得距离太远了吗？",
+    "id": "word-294",
+    "frequencyRank": 294
+  },
+  {
+    "word": "mountain",
+    "phonetic": "/'mauntin/",
+    "translation": "山, 山脉, 大堆",
+    "example": "Between the two lofty mountains lay a fertile valley.",
+    "exampleTranslation": "在两座高山之间躺着一个肥沃的山谷。",
+    "id": "word-295",
+    "frequencyRank": 295
+  },
+  {
+    "word": "winter",
+    "phonetic": "/'wintә/",
+    "translation": "冬季, 萧条期, 衰退期；冬天的；使度过冬天",
+    "example": "Do you like summer or winter better?",
+    "exampleTranslation": "你更喜欢夏天还是冬天？",
+    "id": "word-296",
+    "frequencyRank": 296
+  },
+  {
+    "word": "village",
+    "phonetic": "/'vilidʒ/",
+    "translation": "村庄；乡村的, 村庄的",
+    "example": "Were you born in this village?",
+    "exampleTranslation": "你是在这个村子出生的吗？",
+    "id": "word-297",
+    "frequencyRank": 297
+  },
+  {
+    "word": "roll",
+    "phonetic": "/rәul/",
+    "translation": "卷, 滚动, 名单, 案卷, 压路机；滚, 滚动, 飘流, 起伏, 卷, 绕；使滚动, 卷, 绕",
+    "example": "The baby's ball has rolled away.",
+    "exampleTranslation": "宝宝的球滚走了。",
+    "id": "word-298",
+    "frequencyRank": 298
+  },
+  {
+    "word": "hide",
+    "phonetic": "/haid/",
+    "translation": "兽皮, 迹象, 躲藏处；藏, 隐瞒, 遮避, 剥...的皮, 隐藏；躲藏",
+    "example": "The squirrel's nest was hidden by drooping boughs.",
+    "exampleTranslation": "松鼠的巢被下垂的树枝藏起来了。",
+    "id": "word-299",
+    "frequencyRank": 299
+  },
+  {
+    "word": "willing",
+    "phonetic": "/'wiliŋ/",
+    "translation": "乐意的, 自愿的, 甘愿的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-300",
+    "frequencyRank": 300
+  },
+  {
+    "word": "horse",
+    "phonetic": "/hɒ:s/",
+    "translation": "马, 骑兵, 脚架；骑马, 取笑；使骑马, 系马于",
+    "example": "Hold the horse while I run and get my cap.",
+    "exampleTranslation": "我去拿帽子的时候，牵着马。",
+    "id": "word-301",
+    "frequencyRank": 301
+  },
+  {
+    "word": "demand",
+    "phonetic": "/di'mɑ:nd/",
+    "translation": "要求, 需求, 需要；要求, 查询",
+    "example": "The fisherman who owned the boat now demanded payment.",
+    "exampleTranslation": "拥有这艘船的渔夫现在要求付款。",
+    "id": "word-302",
+    "frequencyRank": 302
+  },
+  {
+    "word": "wild",
+    "phonetic": "/waild/",
+    "translation": "荒野, 荒地；野性的, 野蛮的, 野生的, 失控的, 任性的, 杂乱的, 轻率的, 狂热的, 疯狂的；狂暴地, 失控地",
+    "example": "Once wild animals lived here.",
+    "exampleTranslation": "曾经有野生动物住在这里。",
+    "id": "word-303",
+    "frequencyRank": 303
+  },
+  {
+    "word": "understanding",
+    "phonetic": "/.ʌndә'stændiŋ/",
+    "translation": "理解, 谅解；[法] 协商, 协议, 谅解",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-304",
+    "frequencyRank": 304
+  },
+  {
+    "word": "quick",
+    "phonetic": "/kwik/",
+    "translation": "快的, 迅速的, 敏捷的, 灵敏的, 急速的；快；新长出的肉, 要害, 核心, 感觉敏锐部位",
+    "example": "Be quick or you will be too late.",
+    "exampleTranslation": "快点，否则你会太迟。",
+    "id": "word-305",
+    "frequencyRank": 305
+  },
+  {
+    "word": "bright",
+    "phonetic": "/brait/",
+    "translation": "明亮的, 聪明的, 鲜明的, 欢快的；明亮地, 欢快地",
+    "example": "The bright sun shines.",
+    "exampleTranslation": "明亮的太阳照耀着。",
+    "id": "word-306",
+    "frequencyRank": 306
+  },
+  {
+    "word": "guest",
+    "phonetic": "/gest/",
+    "translation": "客人, 来宾, 旅客；[化] 客体",
+    "example": "When will your guests from the city arrive?",
+    "exampleTranslation": "你城里的客人什么时候到？",
+    "id": "word-307",
+    "frequencyRank": 307
+  },
+  {
+    "word": "tiny",
+    "phonetic": "/'taini/",
+    "translation": "很少的, 微小的",
+    "example": "The little house had three rooms, a sitting room, a bedroom, and a tiny kitchen.",
+    "exampleTranslation": "这所小房子有三个房间，一个起居室，一个卧室和一个极小的厨房。",
+    "id": "word-308",
+    "frequencyRank": 308
+  },
+  {
+    "word": "river",
+    "phonetic": "/'rivә/",
+    "translation": "河, 江；[法] 河流, 江河, 内河",
+    "example": "How wide is the River?",
+    "exampleTranslation": "河有多宽？",
+    "id": "word-309",
+    "frequencyRank": 309
+  },
+  {
+    "word": "living",
+    "phonetic": "/'liviŋ/",
+    "translation": "生活, 生计, 生存；活的, 逼真的, 现存的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-310",
+    "frequencyRank": 310
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "/tә'mɒ:rәu/",
+    "translation": "明天, 未来；明天, 未来地",
+    "example": "Can you come tomorrow?",
+    "exampleTranslation": "你明天能来吗？",
+    "id": "word-311",
+    "frequencyRank": 311
+  },
+  {
+    "word": "jump",
+    "phonetic": "/dʒʌmp/",
+    "translation": "跳跃, 跳动, 暴涨, 惊跳；跳跃, 跃过, 突升, 使跳跃；跳跃, 跳, 跳动, 暴涨",
+    "example": "The kitten jumped up.",
+    "exampleTranslation": "小猫跳了起来。",
+    "id": "word-312",
+    "frequencyRank": 312
+  },
+  {
+    "word": "warm",
+    "phonetic": "/wɒ:m/",
+    "translation": "暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的；使温暖, 弄热, 使兴奋, 使充满仇恨；变暖和, 变温暖, 取暖, 激动, 同情, 爱好",
+    "example": "Are you warm enough now?",
+    "exampleTranslation": "你现在够暖和了吗？",
+    "id": "word-313",
+    "frequencyRank": 313
+  },
+  {
+    "word": "soft",
+    "phonetic": "/sɒft/",
+    "translation": "软的, 温和的, 柔和的, 柔滑的, 温柔的, 软弱的, 坡度小的, 笨的, 纸币的；柔软的东西, 笨人, 纸币；柔软地, 温和地",
+    "example": "The squirrels make their nests warm and snug with soft moss and leaves.",
+    "exampleTranslation": "松鼠用柔软的苔藓和树叶把它们的巢做得温暖舒适。",
+    "id": "word-314",
+    "frequencyRank": 314
+  },
+  {
+    "word": "wonderful",
+    "phonetic": "/'wʌndәful/",
+    "translation": "令人惊奇的, 奇妙的, 极好的",
+    "example": "That boy will have a wonderful trip.",
+    "exampleTranslation": "那个男孩将会有一个奇妙的旅行。",
+    "id": "word-315",
+    "frequencyRank": 315
+  },
+  {
+    "word": "twice",
+    "phonetic": "/twais/",
+    "translation": "两次, 两倍",
+    "example": "Many of the people shouted twice.",
+    "exampleTranslation": "许多人喊了两次。",
+    "id": "word-316",
+    "frequencyRank": 316
+  },
+  {
+    "word": "blow",
+    "phonetic": "/blәu/",
+    "translation": "吹, 打击, 殴打, 花开；吹, 风吹, 吹响, 开花",
+    "example": "Oh, dear! the wind has blown my hat away!",
+    "exampleTranslation": "哦，天哪！风把我的帽子吹走了！",
+    "id": "word-317",
+    "frequencyRank": 317
+  },
+  {
+    "word": "shoe",
+    "phonetic": "/ʃu:/",
+    "translation": "鞋, 靴, 外胎；给...穿鞋, 为马钉蹄铁",
+    "example": "Are these shoes too big for you?",
+    "exampleTranslation": "这些鞋子对你来说太大了吗？",
+    "id": "word-318",
+    "frequencyRank": 318
+  },
+  {
+    "word": "quiet",
+    "phonetic": "/'kwaiәt/",
+    "translation": "安静, 闲适, 平静；安静的, 静止的, 寂静的, 朴素的, 从容的, 暗中的；平静下来",
+    "example": "Stop your game and be quiet.",
+    "exampleTranslation": "停止游戏，安静下来。",
+    "id": "word-319",
+    "frequencyRank": 319
+  },
+  {
+    "word": "dress",
+    "phonetic": "/dres/",
+    "translation": "服装, 覆盖物；穿着；给...穿衣, 整理",
+    "example": "The little girl made the doll's dress herself.",
+    "exampleTranslation": "小女孩自己做了洋娃娃的裙子。",
+    "id": "word-320",
+    "frequencyRank": 320
+  },
+  {
+    "word": "following",
+    "phonetic": "/'fɒlәuiŋ/",
+    "translation": "下列各项, 部下, 追随者；下列的, 其次的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-321",
+    "frequencyRank": 321
+  },
+  {
+    "word": "flower",
+    "phonetic": "/'flauә/",
+    "translation": "花, 开花植物, 精华, 盛时；开花, 发育, 旺盛, 成熟；用花装饰, 使开花",
+    "example": "Lovely flowers are growing everywhere.",
+    "exampleTranslation": "可爱的花朵到处生长。",
+    "id": "word-322",
+    "frequencyRank": 322
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "/'jestәdi/",
+    "translation": "昨天",
+    "example": "Yesterday the oldest girl in the village lost her kitten.",
+    "exampleTranslation": "昨天村里最大的女孩丢了她的小猫。",
+    "id": "word-323",
+    "frequencyRank": 323
+  },
+  {
+    "word": "train",
+    "phonetic": "/trein/",
+    "translation": "火车, 列车, 行列, 长队, 一连串的后果, 顺序；训练, 教育, 对准；受训练, 锻炼",
+    "example": "I think that this train leaves five minutes earlier today.",
+    "exampleTranslation": "我想这列火车今天早开五分钟。",
+    "id": "word-324",
+    "frequencyRank": 324
+  },
+  {
+    "word": "tall",
+    "phonetic": "/tɒ:l/",
+    "translation": "高的, 长的, 夸大的；夸大地",
+    "example": "She is taller than her brother.",
+    "exampleTranslation": "她比她哥哥高。",
+    "id": "word-325",
+    "frequencyRank": 325
+  },
+  {
+    "word": "writing",
+    "phonetic": "/'raitiŋ/",
+    "translation": "书写, 著作, 笔迹, 作品；[医] 书写",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-326",
+    "frequencyRank": 326
+  },
+  {
+    "word": "danger",
+    "phonetic": "/'deindʒә/",
+    "translation": "危险, 威胁；[法] 危险, 危险物, 危机",
+    "example": "With him as our protector, we fear no danger.",
+    "exampleTranslation": "有他作为我们的保护者，我们不害怕任何危险。",
+    "id": "word-327",
+    "frequencyRank": 327
+  },
+  {
+    "word": "rain",
+    "phonetic": "/rein/",
+    "translation": "雨, 下雨, 雨天；下雨；使大量落下",
+    "example": "It's raining.",
+    "exampleTranslation": "下雨了。",
+    "id": "word-328",
+    "frequencyRank": 328
+  },
+  {
+    "word": "leaf",
+    "phonetic": "/li:f/",
+    "translation": "叶, 树叶, 花瓣, 页；生叶, 翻书页；在...上长叶, 翻...的页",
+    "example": "Have all the leaves fallen from the tree?",
+    "exampleTranslation": "所有的叶子都从树上掉下来了吗？",
+    "id": "word-329",
+    "frequencyRank": 329
+  },
+  {
+    "word": "sweet",
+    "phonetic": "/swi:t/",
+    "translation": "甜蜜, 糖果, 情人；甜的, 芳香的, 悦耳的, 漂亮的, 和蔼的, 不咸的, 灵活的, 轻快的",
+    "example": "Sugar tastes sweet.",
+    "exampleTranslation": "糖尝起来是甜的。",
+    "id": "word-330",
+    "frequencyRank": 330
+  },
+  {
+    "word": "strange",
+    "phonetic": "/streindʒ/",
+    "translation": "奇怪的, 陌生的, 生疏的, 不熟悉的, 不可思议的, 外行的, 外地的, 异乡的",
+    "example": "Show the guests these shells, my son, and tell them their strange history.",
+    "exampleTranslation": "给客人看这些贝壳，我的儿子，告诉他们它们奇怪的历史。",
+    "id": "word-331",
+    "frequencyRank": 331
+  },
+  {
+    "word": "reading",
+    "phonetic": "/'ri:diŋ/",
+    "translation": "阅读, 知识, 读物；阅读的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-332",
+    "frequencyRank": 332
+  },
+  {
+    "word": "lunch",
+    "phonetic": "/lʌntʃ/",
+    "translation": "午餐",
+    "example": "At noon we ate our lunch by the roadside.",
+    "exampleTranslation": "中午我们在路边吃了午饭。",
+    "id": "word-333",
+    "frequencyRank": 333
+  },
+  {
+    "word": "sugar",
+    "phonetic": "/'ʃugә/",
+    "translation": "糖, 糖块, 甜言蜜语；加糖于, 使甜蜜, 粉饰, 美化；制成糖",
+    "example": "Sugar tastes sweet.",
+    "exampleTranslation": "糖尝起来是甜的。",
+    "id": "word-334",
+    "frequencyRank": 334
+  },
+  {
+    "word": "enemy",
+    "phonetic": "/'enimi/",
+    "translation": "敌人, 仇敌, 敌军；敌人的",
+    "example": "She has more friends than enemies.",
+    "exampleTranslation": "她的朋友比敌人多。",
+    "id": "word-335",
+    "frequencyRank": 335
+  },
+  {
+    "word": "meaning",
+    "phonetic": "/'mi:niŋ/",
+    "translation": "意义, 含义, 目的, 意图；意味深长的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-336",
+    "frequencyRank": 336
+  },
+  {
+    "word": "bear",
+    "phonetic": "/bєә/",
+    "translation": "熊；忍受, 支承, 产生, 怀有, 通过卖空使跌价；忍受, 结果实, 压挤, 行进, 转向",
+    "example": "Were you born in this village?",
+    "exampleTranslation": "你是在这个村子出生的吗？",
+    "id": "word-337",
+    "frequencyRank": 337
+  },
+  {
+    "word": "teaching",
+    "phonetic": "/'ti:tʃiŋ/",
+    "translation": "教学, 学说, 教导",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-338",
+    "frequencyRank": 338
+  },
+  {
+    "word": "yellow",
+    "phonetic": "/'jelәu/",
+    "translation": "黄色；黄色的",
+    "example": "In winter I get up at night, and dress by yellow candlelight.",
+    "exampleTranslation": "在冬天，我在晚上起床，在黄色的烛光下穿衣。",
+    "id": "word-339",
+    "frequencyRank": 339
+  },
+  {
+    "word": "dance",
+    "phonetic": "/dæns. dɑ:ns/",
+    "translation": "跳舞, 舞蹈, 舞会；跳舞",
+    "example": "Can your brother dance well?",
+    "exampleTranslation": "你的兄弟能跳舞跳得好吗？",
+    "id": "word-340",
+    "frequencyRank": 340
+  },
+  {
+    "word": "ring",
+    "phonetic": "/riŋ/",
+    "translation": "环, 环形物, 拳击场, 戒指, 角逐, 小集团, 铃声, 钟声, 声调；包围, 套住, 按铃, 敲钟；成环形, 响, 鸣, 按铃, 敲钟, 回响",
+    "example": "I have found the ring I lost.",
+    "exampleTranslation": "我找到了我丢失的戒指。",
+    "id": "word-341",
+    "frequencyRank": 341
+  },
+  {
+    "word": "thinking",
+    "phonetic": "/'θiŋkiŋ/",
+    "translation": "思考, 思想；思考的, 有理性的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-342",
+    "frequencyRank": 342
+  },
+  {
+    "word": "hearing",
+    "phonetic": "/'hiәriŋ/",
+    "translation": "听, 听觉, 听讯；[医] 听, 听觉",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-343",
+    "frequencyRank": 343
+  },
+  {
+    "word": "root",
+    "phonetic": "/ru:t/",
+    "translation": "根, 根本, 根源, 基础, 底部；使扎根, 使固定, 根除, 肃清, 搜出, 用鼻拱；生根, 固定, 源于, 用鼻拱土, 寻找, 捧场, 支持",
+    "example": "The strong roots of the oak trees were torn from the ground.",
+    "exampleTranslation": "橡树强壮的根被从地里拔了出来。",
+    "id": "word-344",
+    "frequencyRank": 344
+  },
+  {
+    "word": "nose",
+    "phonetic": "/nәuz/",
+    "translation": "鼻子, 突出部分, 嗅觉；嗅到, 探出, 用鼻子触；闻, 嗅, 探听, 告密",
+    "example": "Whew! that cold wind freezes my nose!",
+    "exampleTranslation": "唷！那冷风冻住了我的鼻子！",
+    "id": "word-345",
+    "frequencyRank": 345
+  },
+  {
+    "word": "ourselves",
+    "phonetic": "/.auә'selvz/",
+    "translation": "我们自己",
+    "example": "We could see ourselves in the water.",
+    "exampleTranslation": "我们可以在水中看到我们自己。",
+    "id": "word-346",
+    "frequencyRank": 346
+  },
+  {
+    "word": "warn",
+    "phonetic": "/wɒ:n/",
+    "translation": "警告, 提醒, 通知；发出警告",
+    "example": "They heard the warning too late.",
+    "exampleTranslation": "他们听到警告太晚了。",
+    "id": "word-347",
+    "frequencyRank": 347
+  },
+  {
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "translation": "猫, 恶妇；呕吐；计算机辅助教育, 计算机辅助测试, 计算机辅助翻译, 计算机辅助排版",
+    "example": "My cat is black.",
+    "exampleTranslation": "我的猫是黑色的。",
+    "id": "word-348",
+    "frequencyRank": 348
+  },
+  {
+    "word": "snow",
+    "phonetic": "/snәu/",
+    "translation": "雪, 积雪, 下雪, 雪花形干扰；下雪, 似雪般落下；使雪白, 用雪覆盖, 使像雪般落下",
+    "example": "The little seeds waited patiently under the snow for the warm spring sun.",
+    "exampleTranslation": "小种子在雪下耐心地等待着温暖的春日阳光。",
+    "id": "word-349",
+    "frequencyRank": 349
+  },
+  {
+    "word": "funny",
+    "phonetic": "/'fʌni/",
+    "translation": "好笑的, 有趣的, 滑稽的；滑稽人物",
+    "example": "That is the funniest story I ever heard.",
+    "exampleTranslation": "那是我听过的最有趣的故事。",
+    "id": "word-350",
+    "frequencyRank": 350
+  },
+  {
+    "word": "hill",
+    "phonetic": "/hil/",
+    "translation": "小山, 丘陵, 小土堆；作成土堆, 堆成小丘",
+    "example": "On the top of the hill in a little hut lived a wise old woman.",
+    "exampleTranslation": "在山顶的一个小棚屋里住着一位聪明的老妇人。",
+    "id": "word-351",
+    "frequencyRank": 351
+  },
+  {
+    "word": "branch",
+    "phonetic": "/bræntʃ/",
+    "translation": "树枝, 支店, 支流, 分部；分支, 出枝；分割, 用枝状叶脉刺绣花纹装饰",
+    "example": "The sun looked down through the branches upon the children at play.",
+    "exampleTranslation": "太阳透过树枝俯视着玩耍的孩子们。",
+    "id": "word-352",
+    "frequencyRank": 352
+  },
+  {
+    "word": "governor",
+    "phonetic": "/'gʌvәnә/",
+    "translation": "(美)州长, (英)总督, 统治者, 管理者, 理事；[医] 节制器, 调节器",
+    "example": "My opinion is that the governor will grant him a pardon.",
+    "exampleTranslation": "我的看法是州长会赦免他。",
+    "id": "word-353",
+    "frequencyRank": 353
+  },
+  {
+    "word": "except",
+    "phonetic": "/ik'sept/",
+    "translation": "除, 除外；反对；除了...之外, 若不是, 除非",
+    "example": "All the children came except Mary.",
+    "exampleTranslation": "所有的孩子都来了，除了玛丽。",
+    "id": "word-354",
+    "frequencyRank": 354
+  },
+  {
+    "word": "hall",
+    "phonetic": "/hɒ:l/",
+    "translation": "门厅, 走廊, 会堂",
+    "example": "If you come early, wait in the hall.",
+    "exampleTranslation": "如果你来得早，在走廊等。",
+    "id": "word-355",
+    "frequencyRank": 355
+  },
+  {
+    "word": "secret",
+    "phonetic": "/'si:krit/",
+    "translation": "秘密, 机密, 秘诀, 秘方；秘密的, 极机密的, 隐蔽的, 暗中的, 神秘的, 偏僻的",
+    "example": "Keep this secret until tomorrow.",
+    "exampleTranslation": "把这个秘密保守到明天。",
+    "id": "word-356",
+    "frequencyRank": 356
+  },
+  {
+    "word": "bedroom",
+    "phonetic": "/'bedrum/",
+    "translation": "卧室",
+    "example": "The little house had three rooms, a sitting room, a bedroom, and a tiny kitchen.",
+    "exampleTranslation": "这所小房子有三个房间，一个起居室，一个卧室和一个极小的厨房。",
+    "id": "word-357",
+    "frequencyRank": 357
+  },
+  {
+    "word": "wing",
+    "phonetic": "/wiŋ/",
+    "translation": "翅膀, 翼, 机翼, 派别；给...装上翼, 飞过, 使飞, 空运, 增加...速度；飞行",
+    "example": "The boat sails away, like a bird on the wing.",
+    "exampleTranslation": "船驶向远方，像一只飞翔的鸟。",
+    "id": "word-358",
+    "frequencyRank": 358
+  },
+  {
+    "word": "tear",
+    "phonetic": "/tiә. tєә/",
+    "translation": "泪滴, 眼泪, 撕, 扯, 裂缝, 激怒, 飞奔；流泪, 撕破, 赶快, 飞奔, 被撕破；撕裂, 戳破, 拉掉, 撕掉, 使分裂, 使精神不安, 折磨",
+    "example": "The strong roots of the oak trees were torn from the ground.",
+    "exampleTranslation": "橡树强壮的根被从地里拔了出来。",
+    "id": "word-359",
+    "frequencyRank": 359
+  },
+  {
+    "word": "grant",
+    "phonetic": "/grænt/",
+    "translation": "授予, 授予物, 允许；允许, 承认, 授与；[计] 授权命令",
+    "example": "My opinion is that the governor will grant him a pardon.",
+    "exampleTranslation": "我的看法是州长会赦免他。",
+    "id": "word-360",
+    "frequencyRank": 360
+  },
+  {
+    "word": "seed",
+    "phonetic": "/si:d/",
+    "translation": "种子, 籽, 萌芽, 子孙, 精液；在...播种, 催...发育, 脱...籽；结实, 播种",
+    "example": "The little seeds waited patiently under the snow for the warm spring sun.",
+    "exampleTranslation": "小种子在雪下耐心地等待着温暖的春日阳光。",
+    "id": "word-361",
+    "frequencyRank": 361
+  },
+  {
+    "word": "everywhere",
+    "phonetic": "/'evrihwєә/",
+    "translation": "各处, 到处",
+    "example": "Lovely flowers are growing everywhere.",
+    "exampleTranslation": "可爱的花朵到处生长。",
+    "id": "word-362",
+    "frequencyRank": 362
+  },
+  {
+    "word": "gray",
+    "phonetic": "/grei/",
+    "translation": "灰色, 暗淡；灰色的, 灰白的, 面色苍白的, 年老的, 老练的, 阴沉的；(使)变灰色",
+    "example": "Does the sky look blue or gray?",
+    "exampleTranslation": "天空看起来是蓝色的还是灰色的？",
+    "id": "word-363",
+    "frequencyRank": 363
+  },
+  {
+    "word": "opening",
+    "phonetic": "/'әupәniŋ/",
+    "translation": "开始, 口子, 穴, 揭幕；开始的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-364",
+    "frequencyRank": 364
+  },
+  {
+    "word": "lake",
+    "phonetic": "/leik/",
+    "translation": "湖, 池, 色淀；(使)血球溶解",
+    "example": "Jack seized a handful of pebbles and threw them into the lake.",
+    "exampleTranslation": "杰克抓了一把鹅卵石，把它们扔进了湖里。",
+    "id": "word-365",
+    "frequencyRank": 365
+  },
+  {
+    "word": "careful",
+    "phonetic": "/'kєәful/",
+    "translation": "小心的, 谨慎的",
+    "example": "Be careful.",
+    "exampleTranslation": "小心。",
+    "id": "word-366",
+    "frequencyRank": 366
+  },
+  {
+    "word": "tired",
+    "phonetic": "/taiәd/",
+    "translation": "疲累的, 疲乏的, 厌倦的",
+    "example": "I am tired, but very happy.",
+    "exampleTranslation": "我很累，但很开心。",
+    "id": "word-367",
+    "frequencyRank": 367
+  },
+  {
+    "word": "beside",
+    "phonetic": "/bi'said/",
+    "translation": "在旁边",
+    "example": "An old man with a walking stick stood beside the fence.",
+    "exampleTranslation": "一个拿着手杖的老人站在篱笆旁。",
+    "id": "word-368",
+    "frequencyRank": 368
+  },
+  {
+    "word": "towards",
+    "phonetic": "/tә'wɔ:dz/",
+    "translation": "向, 对于, 为了",
+    "example": "Near the mouth of the river, its course turns sharply towards the East.",
+    "exampleTranslation": "在河口附近，它的流向急剧转向东方。",
+    "id": "word-369",
+    "frequencyRank": 369
+  },
+  {
+    "word": "gate",
+    "phonetic": "/geit/",
+    "translation": "门, 牌楼, 大门, 通道, 闸；装门于；[计] 门; 栅",
+    "example": "Evidently that gate is never opened, for the long grass and the great hemlocks grow close against it.",
+    "exampleTranslation": "显然那扇门从未被打开过，因为长草和大毒芹紧挨着它生长。",
+    "id": "word-370",
+    "frequencyRank": 370
+  },
+  {
+    "word": "grass",
+    "phonetic": "/græs/",
+    "translation": "草, 草原, 牧场；[医] 草, 禾本",
+    "example": "In our climate the grass remains green all winter.",
+    "exampleTranslation": "在我们的气候中，草整个冬天都保持绿色。",
+    "id": "word-371",
+    "frequencyRank": 371
+  },
+  {
+    "word": "hat",
+    "phonetic": "/hæt/",
+    "translation": "帽子；给...戴帽子",
+    "example": "Oh, dear! the wind has blown my hat away!",
+    "exampleTranslation": "哦，天哪！风把我的帽子吹走了！",
+    "id": "word-372",
+    "frequencyRank": 372
+  },
+  {
+    "word": "fishing",
+    "phonetic": "/'fiʃiŋ/",
+    "translation": "钓鱼, 鱼业；钓鱼的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-373",
+    "frequencyRank": 373
+  },
+  {
+    "word": "taste",
+    "phonetic": "/teist/",
+    "translation": "味道, 品味, 味觉, 感受, 体验, 爱好, 审美, 少量；尝, 察觉...的味道, 体会；品尝, 察觉味道, 有某种味道",
+    "example": "Sugar tastes sweet.",
+    "exampleTranslation": "糖尝起来是甜的。",
+    "id": "word-374",
+    "frequencyRank": 374
+  },
+  {
+    "word": "closely",
+    "phonetic": "/'klәusli/",
+    "translation": "接近地",
+    "example": "When the wind blew, the traveler wrapped his mantle more closely around him.",
+    "exampleTranslation": "风吹过时，旅行者把斗篷裹得更紧了。",
+    "id": "word-375",
+    "frequencyRank": 375
+  },
+  {
+    "word": "wrap",
+    "phonetic": "/ræp/",
+    "translation": "外套, 围巾, 包裹物, 限制, 约束, 秘密, 换行；包装, 卷, 缠绕, 包, 裹, 覆盖, 遮蔽, 隐藏, 掩护；缠绕, 穿外衣, 包起来",
+    "example": "When the wind blew, the traveler wrapped his mantle more closely around him.",
+    "exampleTranslation": "风吹过时，旅行者把斗篷裹得更紧了。",
+    "id": "word-376",
+    "frequencyRank": 376
+  },
+  {
+    "word": "warning",
+    "phonetic": "/'wɒ:niŋ/",
+    "translation": "警告, 预告, 预兆, 通知；[法] 警告, 警戒, 预告; 警告的, 注意的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-377",
+    "frequencyRank": 377
+  },
+  {
+    "word": "climate",
+    "phonetic": "/'klaimit/",
+    "translation": "气候, 社会趋势, 气候区；[医] 气候",
+    "example": "In our climate the grass remains green all winter.",
+    "exampleTranslation": "在我们的气候中，草整个冬天都保持绿色。",
+    "id": "word-378",
+    "frequencyRank": 378
+  },
+  {
+    "word": "payment",
+    "phonetic": "/'peimәnt/",
+    "translation": "付款, 支付的款项(或实物), 偿还, 报应, 惩罚；[经] 支付, 缴纳, 支付款额",
+    "example": "The fisherman who owned the boat now demanded payment.",
+    "exampleTranslation": "拥有这艘船的渔夫现在要求付款。",
+    "id": "word-379",
+    "frequencyRank": 379
+  },
+  {
+    "word": "sad",
+    "phonetic": "/sæd/",
+    "translation": "忧愁的, 悲哀的",
+    "example": "Alas! that news is sad indeed!",
+    "exampleTranslation": "唉！那个消息确实很悲伤！",
+    "id": "word-380",
+    "frequencyRank": 380
+  },
+  {
+    "word": "housing",
+    "phonetic": "/'hausiŋ/",
+    "translation": "遮盖, 住房供给, 居留(处), 房屋, 装饰；[化] 外壳",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-381",
+    "frequencyRank": 381
+  },
+  {
+    "word": "regarding",
+    "phonetic": "/ri'gɑ:diŋ/",
+    "translation": "关于",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-382",
+    "frequencyRank": 382
+  },
+  {
+    "word": "shout",
+    "phonetic": "/ʃaut/",
+    "translation": "呼喊, 喊声；呼喊, 喊叫, 嚷；高喊",
+    "example": "All the people shouted.",
+    "exampleTranslation": "所有的人都喊叫。",
+    "id": "word-383",
+    "frequencyRank": 383
+  },
+  {
+    "word": "tea",
+    "phonetic": "/ti:/",
+    "translation": "茶, 茶叶；[医] 茶, 茶剂, 浸剂",
+    "example": "Have some tea.",
+    "exampleTranslation": "喝点茶吧。",
+    "id": "word-384",
+    "frequencyRank": 384
+  },
+  {
+    "word": "wedding",
+    "phonetic": "/'wediŋ/",
+    "translation": "婚礼, 结婚, 结婚周年纪念日, 结合；[法] 结婚, 婚礼, 结婚纪念日",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-385",
+    "frequencyRank": 385
+  },
+  {
+    "word": "leading",
+    "phonetic": "/'li:diŋ/",
+    "translation": "领导, 指挥, 神示, 铅板；领导的, 主要的, 在前的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-386",
+    "frequencyRank": 386
+  },
+  {
+    "word": "saving",
+    "phonetic": "/'seiviŋ/",
+    "translation": "存款, 挽救, 节约；搭救的, 节约的, 保留的, 补偿的；除...之外",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-387",
+    "frequencyRank": 387
+  },
+  {
+    "word": "shall",
+    "phonetic": "/ʃæl/",
+    "translation": "将",
+    "example": "I shall stay at home if it rains.",
+    "exampleTranslation": "如果下雨我就待在家里。",
+    "id": "word-388",
+    "frequencyRank": 388
+  },
+  {
+    "word": "opposite",
+    "phonetic": "/'ɒpәzit/",
+    "translation": "相对的, 相反的, 对面的；对面；对立面",
+    "example": "Directly opposite stands a wonderful palace.",
+    "exampleTranslation": "正对面矗立着一座奇妙的宫殿。",
+    "id": "word-389",
+    "frequencyRank": 389
+  },
+  {
+    "word": "knife",
+    "phonetic": "/naif/",
+    "translation": "小刀, 匕首；切割, 伤害, 切, 戳；劈开, 穿过",
+    "example": "Mr. Jones made a knife for his little boy.",
+    "exampleTranslation": "琼斯先生给他的小儿子做了一把刀。",
+    "id": "word-390",
+    "frequencyRank": 390
+  },
+  {
+    "word": "pack",
+    "phonetic": "/pæk/",
+    "translation": "包裹, 一伙, 一副, 背包, 包装；包装, 捆扎, 塞满, 压紧, 挑选；包装货物, 挤, 群集, 被包装",
+    "example": "All her finery, lace, ribbons, and feathers, was packed away in a trunk.",
+    "exampleTranslation": "她所有的服饰，蕾丝、丝带和羽毛，都收在一个箱子里。",
+    "id": "word-391",
+    "frequencyRank": 391
+  },
+  {
+    "word": "marketing",
+    "phonetic": "/'mɑ:kitiŋ/",
+    "translation": "行销, 买卖；[经] 推销, 在市场买卖, 销售",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-392",
+    "frequencyRank": 392
+  },
+  {
+    "word": "amazing",
+    "phonetic": "/ә'meiziŋ/",
+    "translation": "令人惊异的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-393",
+    "frequencyRank": 393
+  },
+  {
+    "word": "cap",
+    "phonetic": "/kæp/",
+    "translation": "盖子, 帽子；戴帽子, 覆盖, 胜过；脱帽致意",
+    "example": "They wore red caps, the symbol of liberty.",
+    "exampleTranslation": "他们戴着红帽子，这是自由的象征。",
+    "id": "word-394",
+    "frequencyRank": 394
+  },
+  {
+    "word": "mystery",
+    "phonetic": "/'mistәri/",
+    "translation": "秘密, 神秘, 奥秘",
+    "example": "Why he has left the city is a mystery.",
+    "exampleTranslation": "他为什么离开这座城市是个谜。",
+    "id": "word-395",
+    "frequencyRank": 395
+  },
+  {
+    "word": "symbol",
+    "phonetic": "/'simbl/",
+    "translation": "符号, 象征, 代号, 信条；[计] 符号; 码元",
+    "example": "They wore red caps, the symbol of liberty.",
+    "exampleTranslation": "他们戴着红帽子，这是自由的象征。",
+    "id": "word-396",
+    "frequencyRank": 396
+  },
+  {
+    "word": "command",
+    "phonetic": "/kә'mɑ:nd/",
+    "translation": "命令, 指挥, 控制, 部队, 司令部；命令, 指挥, 控制；[计] 命令; 指令; DOS外部命令:启动新的命令处理器",
+    "example": "Madam, I will obey your command.",
+    "exampleTranslation": "夫人，我会服从您的命令。",
+    "id": "word-397",
+    "frequencyRank": 397
+  },
+  {
+    "word": "breakfast",
+    "phonetic": "/'brekfәst/",
+    "translation": "早餐",
+    "example": "I awoke early, dressed hastily, and went down to breakfast.",
+    "exampleTranslation": "我醒得很早，匆忙穿好衣服，下楼吃早餐。",
+    "id": "word-398",
+    "frequencyRank": 398
+  },
+  {
+    "word": "engineering",
+    "phonetic": "/.endʒi'niәriŋ/",
+    "translation": "工程学, 工程, 操纵；[化] 机器; 机器学",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-399",
+    "frequencyRank": 399
+  },
+  {
+    "word": "concert",
+    "phonetic": "/'kɒnsәt/",
+    "translation": "音乐会, 和声, 一致；协力, 协调；协力",
+    "example": "Are you going with us to the concert?",
+    "exampleTranslation": "你会和我们一起去音乐会吗？",
+    "id": "word-400",
+    "frequencyRank": 400
+  },
+  {
+    "word": "drawing",
+    "phonetic": "/'drɒ:iŋ/",
+    "translation": "图画, 制图, 拉；[计] 绘图",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-401",
+    "frequencyRank": 401
+  },
+  {
+    "word": "pop",
+    "phonetic": "/pɒp/",
+    "translation": "砰然声, 枪击, 含气饮料, 流行音乐, 通俗艺术；流行的, 热门的, 通俗的；使发出爆裂声, 开枪打, 突然伸出",
+    "example": "They popped corn, and then sat around the fire and ate it.",
+    "exampleTranslation": "他们爆了玉米花，然后围坐在火堆旁吃。",
+    "id": "word-402",
+    "frequencyRank": 402
+  },
+  {
+    "word": "shell",
+    "phonetic": "/ʃel/",
+    "translation": "贝壳, 壳, 外形, 炮弹；去壳, 脱落, 炮轰；剥落, 脱壳",
+    "example": "Show the guests these shells, my son, and tell them their strange history.",
+    "exampleTranslation": "给客人看这些贝壳，我的儿子，告诉他们它们奇怪的历史。",
+    "id": "word-403",
+    "frequencyRank": 403
+  },
+  {
+    "word": "advertising",
+    "phonetic": "/'ædvәtaiziŋ/",
+    "translation": "广告业, 广告；广告的；[计] 发广告",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-404",
+    "frequencyRank": 404
+  },
+  {
+    "word": "clothing",
+    "phonetic": "/'klәuðiŋ/",
+    "translation": "衣服",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-405",
+    "frequencyRank": 405
+  },
+  {
+    "word": "fence",
+    "phonetic": "/fens/",
+    "translation": "围墙, 栅栏, 买卖赃物的人, 剑术；用篱笆围住, 练习剑术, 防护；击剑, 搪塞",
+    "example": "An old man with a walking stick stood beside the fence.",
+    "exampleTranslation": "一个拿着手杖的老人站在篱笆旁。",
+    "id": "word-406",
+    "frequencyRank": 406
+  },
+  {
+    "word": "found",
+    "phonetic": "/faund/",
+    "translation": "建立, 创立, 铸造；find的过去式和过去分词",
+    "example": "I have found the ring I lost.",
+    "exampleTranslation": "我找到了我丢失的戒指。",
+    "id": "word-407",
+    "frequencyRank": 407
+  },
+  {
+    "word": "string",
+    "phonetic": "/striŋ/",
+    "translation": "线, 细绳, 一串, 字符串；串起, 成串, 收紧, 缚, 扎；成一串",
+    "example": "This string is too short!",
+    "exampleTranslation": "这根绳子太短了！",
+    "id": "word-408",
+    "frequencyRank": 408
+  },
+  {
+    "word": "lost",
+    "phonetic": "/lɒst/",
+    "translation": "失去的, 遗失的, 迷惑的；lose的过去式和过去分词",
+    "example": "Henry's dog is lost.",
+    "exampleTranslation": "亨利的狗丢了。",
+    "id": "word-409",
+    "frequencyRank": 409
+  },
+  {
+    "word": "stranger",
+    "phonetic": "/'streindʒә/",
+    "translation": "陌生人, 门外汉；[法] 局外人, 非当事人, 第三者",
+    "example": "Show the guests these shells, my son, and tell them their strange history.",
+    "exampleTranslation": "给客人看这些贝壳，我的儿子，告诉他们它们奇怪的历史。",
+    "id": "word-410",
+    "frequencyRank": 410
+  },
+  {
+    "word": "broken",
+    "phonetic": "/'brәukәn/",
+    "translation": "坏掉的, 打破的, 断掉的；break的过去分词",
+    "example": "The little girl's doll is broken.",
+    "exampleTranslation": "小女孩的洋娃娃坏了。",
+    "id": "word-411",
+    "frequencyRank": 411
+  },
+  {
+    "word": "apple",
+    "phonetic": "/'æpl/",
+    "translation": "苹果, 家伙；[医] 苹果",
+    "example": "A robin has built his nest in the apple tree.",
+    "exampleTranslation": "一只知更鸟在苹果树上筑了巢。",
+    "id": "word-412",
+    "frequencyRank": 412
+  },
+  {
+    "word": "shopping",
+    "phonetic": "/'ʃɒpiŋ/",
+    "translation": "买东西, 购物；[经] 购物, 买东西",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-413",
+    "frequencyRank": 413
+  },
+  {
+    "word": "cousin",
+    "phonetic": "/'kʌzәn/",
+    "translation": "堂兄弟姊妹, 表兄弟姊妹；[法] 同辈表亲或堂亲",
+    "example": "Every spring and fall our cousins pay us a long visit.",
+    "exampleTranslation": "每年春天和秋天，我们的表亲都会长久地拜访我们。",
+    "id": "word-414",
+    "frequencyRank": 414
+  },
+  {
+    "word": "friendly",
+    "phonetic": "/'frendli/",
+    "translation": "友好的, 亲切的, 互助的；友善地, 温和地",
+    "example": "The west wind blew across my face like a friendly caress.",
+    "exampleTranslation": "西风吹过我的脸，就像友好的爱抚。",
+    "id": "word-415",
+    "frequencyRank": 415
+  },
+  {
+    "word": "hunting",
+    "phonetic": "/'hʌntiŋ/",
+    "translation": "狩猎, 猎狐, 探求；[计] 寻找平衡; 寻找",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-416",
+    "frequencyRank": 416
+  },
+  {
+    "word": "surprising",
+    "phonetic": "/sә'praiziŋ/",
+    "translation": "令人惊讶的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-417",
+    "frequencyRank": 417
+  },
+  {
+    "word": "valley",
+    "phonetic": "/'væli/",
+    "translation": "山谷, 溪谷, 流域, 凹地；[医] 谷",
+    "example": "Between the two lofty mountains lay a fertile valley.",
+    "exampleTranslation": "在两座高山之间躺着一个肥沃的山谷。",
+    "id": "word-418",
+    "frequencyRank": 418
+  },
+  {
+    "word": "freeze",
+    "phonetic": "/fri:z/",
+    "translation": "冻结, 冷冻, 僵硬, 楞住；使结冰, 使冻住, 使呆住；结冰, 凝固",
+    "example": "Whew! that cold wind freezes my nose!",
+    "exampleTranslation": "唷！那冷风冻住了我的鼻子！",
+    "id": "word-419",
+    "frequencyRank": 419
+  },
+  {
+    "word": "working",
+    "phonetic": "/'wә:kiŋ/",
+    "translation": "工作, 运转, 劳动；工作的, 劳动的, 经营的, 抽搐的, 运转的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-420",
+    "frequencyRank": 420
+  },
+  {
+    "word": "shooting",
+    "phonetic": "/'ʃu:tiŋ/",
+    "translation": "发射, 猎场, 射击",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-421",
+    "frequencyRank": 421
+  },
+  {
+    "word": "tire",
+    "phonetic": "/taiә/",
+    "translation": "轮胎, 头饰；使疲倦, 使厌烦, 打扮；疲劳, 厌倦",
+    "example": "I am tired, but very happy.",
+    "exampleTranslation": "我很累，但很开心。",
+    "id": "word-422",
+    "frequencyRank": 422
+  },
+  {
+    "word": "entrance",
+    "phonetic": "/'entrәns/",
+    "translation": "入口, 进入点, 入场, 入学, 进入, 开始(阶段), 就任；使出神, 使入迷；[计] 入口",
+    "example": "The first boy in the line stopped at the entrance.",
+    "exampleTranslation": "队伍里的第一个男孩在入口处停了下来。",
+    "id": "word-423",
+    "frequencyRank": 423
+  },
+  {
+    "word": "exciting",
+    "phonetic": "/ik'saitiŋ/",
+    "translation": "令人兴奋的, 刺激的；[电] 激磁",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-424",
+    "frequencyRank": 424
+  },
+  {
+    "word": "satisfy",
+    "phonetic": "/'sætisfai/",
+    "translation": "使满意, 满足, 符合, 使确信, 赔偿；令人满意, 替人赎罪",
+    "example": "Be satisfied with nothing but your best.",
+    "exampleTranslation": "除了做到最好，不要满足。",
+    "id": "word-425",
+    "frequencyRank": 425
+  },
+  {
+    "word": "trick",
+    "phonetic": "/trik/",
+    "translation": "诡计, 欺诈, 谋略, 恶作剧, 习惯, 决窍；愚弄, 欺骗, 装饰；哄骗, 戏弄",
+    "example": "Tom laughed at the monkey's tricks.",
+    "exampleTranslation": "汤姆嘲笑猴子的把戏。",
+    "id": "word-426",
+    "frequencyRank": 426
+  },
+  {
+    "word": "loud",
+    "phonetic": "/laud/",
+    "translation": "大声的, 不断的, 喧吵的；高声地, 大声地",
+    "example": "The sound of the drums grew louder and louder.",
+    "exampleTranslation": "鼓声变得越来越大。",
+    "id": "word-427",
+    "frequencyRank": 427
+  },
+  {
+    "word": "orange",
+    "phonetic": "/'ɒ:rindʒ/",
+    "translation": "柑橘, 桔子, 橘色；橘色的",
+    "example": "These oranges are juicy.",
+    "exampleTranslation": "这些橙子很多汁。",
+    "id": "word-428",
+    "frequencyRank": 428
+  },
+  {
+    "word": "manufacturing",
+    "phonetic": "/.mænju'fæktʃәriŋ/",
+    "translation": "制造业；制造业的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-429",
+    "frequencyRank": 429
+  },
+  {
+    "word": "wound",
+    "phonetic": "/wu:nd/",
+    "translation": "创伤, 伤口, 伤疤, 伤害, 痛苦；伤害, 损害, 使受伤；打伤, 伤害",
+    "example": "Whew! that cold wind freezes my nose!",
+    "exampleTranslation": "唷！那冷风冻住了我的鼻子！",
+    "id": "word-430",
+    "frequencyRank": 430
+  },
+  {
+    "word": "wise",
+    "phonetic": "/waiz/",
+    "translation": "明智的, 慎虑的, 聪明的, 博学的, 狡猾的, 机灵的；知道；教导, 告诉, 劝导",
+    "example": "They are no wiser than we.",
+    "exampleTranslation": "他们不比我们聪明。",
+    "id": "word-431",
+    "frequencyRank": 431
+  },
+  {
+    "word": "running",
+    "phonetic": "/'rʌniŋ/",
+    "translation": "赛跑, 流出, 运转；流动的, 跑着的, 连续的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-432",
+    "frequencyRank": 432
+  },
+  {
+    "word": "fighting",
+    "phonetic": "/'faitiŋ/",
+    "translation": "战斗的, 容易引起争斗的, 适于格斗的, 好斗的, 好战的, 斗争的, 搏斗的；战斗, 斗争, 搏斗",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-433",
+    "frequencyRank": 433
+  },
+  {
+    "word": "cooking",
+    "phonetic": "/'kukiŋ/",
+    "translation": "烹饪；[化] 熬炼; 热炼; 蒸煮",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-434",
+    "frequencyRank": 434
+  },
+  {
+    "word": "killing",
+    "phonetic": "/'kiliŋ/",
+    "translation": "谋杀, 杀戮；杀害的, 疲惫的, 迷人的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-435",
+    "frequencyRank": 435
+  },
+  {
+    "word": "lovely",
+    "phonetic": "/'lʌvli/",
+    "translation": "可爱的, 有趣的",
+    "example": "Lovely flowers are growing everywhere.",
+    "exampleTranslation": "可爱的花朵到处生长。",
+    "id": "word-436",
+    "frequencyRank": 436
+  },
+  {
+    "word": "recording",
+    "phonetic": "/ri'kɒ:diŋ/",
+    "translation": "记录的, 记录用的；录音",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-437",
+    "frequencyRank": 437
+  },
+  {
+    "word": "dear",
+    "phonetic": "/'diә/",
+    "translation": "亲爱的人；亲爱的, 昂贵的, 严重的, 急迫的；interj. 啊",
+    "example": "Oh, dear! the wind has blown my hat away!",
+    "exampleTranslation": "哦，天哪！风把我的帽子吹走了！",
+    "id": "word-438",
+    "frequencyRank": 438
+  },
+  {
+    "word": "shine",
+    "phonetic": "/ʃain/",
+    "translation": "光泽, 阳光；使发光；照耀, 发光, 发亮",
+    "example": "The sun shone.",
+    "exampleTranslation": "阳光照耀过。",
+    "id": "word-439",
+    "frequencyRank": 439
+  },
+  {
+    "word": "gentle",
+    "phonetic": "/'dʒentl/",
+    "translation": "温和的, 文雅的",
+    "example": "He is loved by everybody, because he has a gentle disposition.",
+    "exampleTranslation": "他受到每个人的喜爱，因为他性格温和。",
+    "id": "word-440",
+    "frequencyRank": 440
+  },
+  {
+    "word": "concerning",
+    "phonetic": "/kәn'sә:niŋ/",
+    "translation": "关于；[法] 关于",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-441",
+    "frequencyRank": 441
+  },
+  {
+    "word": "trading",
+    "phonetic": "/'treidiŋ/",
+    "translation": "[经] 交易",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-442",
+    "frequencyRank": 442
+  },
+  {
+    "word": "hunt",
+    "phonetic": "/hʌnt/",
+    "translation": "狩猎, 追捕, 搜寻, 猎区；狩猎, 打猎, 搜索；打猎, 猎食, 搜寻",
+    "example": "Everybody knows about hunting.",
+    "exampleTranslation": "每个人都知道狩猎。",
+    "id": "word-443",
+    "frequencyRank": 443
+  },
+  {
+    "word": "march",
+    "phonetic": "/mɑ:tʃ/",
+    "translation": "三月, 进行, 行军, 步伐, 长途跋涉, 进行曲, 边界；进军, 前进, 交界；使行军, 使行进",
+    "example": "A company of soldiers marched over the hill and across the meadow.",
+    "exampleTranslation": "一队士兵行军越过山丘，穿过草地。",
+    "id": "word-444",
+    "frequencyRank": 444
+  },
+  {
+    "word": "missing",
+    "phonetic": "/'misiŋ/",
+    "translation": "不见的, 缺少的；[法] 行踪不明的, 失踪的, 遗失的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-445",
+    "frequencyRank": 445
+  },
+  {
+    "word": "lend",
+    "phonetic": "/lend/",
+    "translation": "借, 贷款给, 增添, 提供, 出租；贷款",
+    "example": "I shall lend you the books that you need.",
+    "exampleTranslation": "我会借给你你需要的书。",
+    "id": "word-446",
+    "frequencyRank": 446
+  },
+  {
+    "word": "written",
+    "phonetic": "/'ritn/",
+    "translation": "书面的, 写成文字的；write的过去分词",
+    "example": "You must write more neatly.",
+    "exampleTranslation": "你必须写得更整洁。",
+    "id": "word-447",
+    "frequencyRank": 447
+  },
+  {
+    "word": "hurry",
+    "phonetic": "/'hʌri/",
+    "translation": "匆忙, 急忙, 急促；急派, 催促；匆忙, 赶快",
+    "example": "Hurry, children.",
+    "exampleTranslation": "快点，孩子们。",
+    "id": "word-448",
+    "frequencyRank": 448
+  },
+  {
+    "word": "walking",
+    "phonetic": "/'wɒ:kiŋ/",
+    "translation": "步行, 步态；步行的, 步行用的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-449",
+    "frequencyRank": 449
+  },
+  {
+    "word": "uncomfortable",
+    "phonetic": "/.ʌn'kʌmfәtәbl/",
+    "translation": "不舒服的, 不自在的, 不安的",
+    "example": "She was always, shabby, often ragged, and on cold days very uncomfortable.",
+    "exampleTranslation": "她总是破旧不堪，经常衣衫褴褛，在寒冷的日子里很不舒服。",
+    "id": "word-450",
+    "frequencyRank": 450
+  },
+  {
+    "word": "tune",
+    "phonetic": "/tju:n/",
+    "translation": "歌曲, 主旋律, 心情, 声调, 和谐, 一致, 语调, 程度；为...调音, 调整, 调谐, 使一致；协调, 调谐",
+    "example": "He played a tune on his wonderful flute.",
+    "exampleTranslation": "他在那支奇妙的长笛上吹了一首曲子。",
+    "id": "word-451",
+    "frequencyRank": 451
+  },
+  {
+    "word": "closed",
+    "phonetic": "/klәuzd/",
+    "translation": "关闭的, 限于少数人的；[计] 关闭指令",
+    "example": "Evidently that gate is never opened, for the long grass and the great hemlocks grow close against it.",
+    "exampleTranslation": "显然那扇门从未被打开过，因为长草和大毒芹紧挨着它生长。",
+    "id": "word-452",
+    "frequencyRank": 452
+  },
+  {
+    "word": "driving",
+    "phonetic": "/'draiviŋ/",
+    "translation": "赶, 操纵, 驾驶；推进的, 强劲的, 精力旺盛的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-453",
+    "frequencyRank": 453
+  },
+  {
+    "word": "sharply",
+    "phonetic": "/'ʃɑ:pli/",
+    "translation": "锐利地, 严厉地, 厉害地；[经] 剧烈地",
+    "example": "Near the mouth of the river, its course turns sharply towards the East.",
+    "exampleTranslation": "在河口附近，它的流向急剧转向东方。",
+    "id": "word-454",
+    "frequencyRank": 454
+  },
+  {
+    "word": "suffering",
+    "phonetic": "/'sʌfәriŋ/",
+    "translation": "苦难, 受苦",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-455",
+    "frequencyRank": 455
+  },
+  {
+    "word": "lonely",
+    "phonetic": "/'lәunli/",
+    "translation": "孤单的, 孤寂的, 荒凉的",
+    "example": "The little girl seemed lonely.",
+    "exampleTranslation": "小女孩似乎很孤独。",
+    "id": "word-456",
+    "frequencyRank": 456
+  },
+  {
+    "word": "drum",
+    "phonetic": "/drʌm/",
+    "translation": "鼓, 鼓声；击鼓, 作鼓声；打鼓奏出",
+    "example": "The sound of the drums grew louder and louder.",
+    "exampleTranslation": "鼓声变得越来越大。",
+    "id": "word-457",
+    "frequencyRank": 457
+  },
+  {
+    "word": "sail",
+    "phonetic": "/seil/",
+    "translation": "帆, 篷, 帆船, 航程, 帆状物；航行, 启航, 张帆而行；航行于, 驾船",
+    "example": "We sailed down the river for several miles.",
+    "exampleTranslation": "我们顺流而下航行了几英里。",
+    "id": "word-458",
+    "frequencyRank": 458
+  },
+  {
+    "word": "nest",
+    "phonetic": "/nest/",
+    "translation": "巢, 窝, 休息所, 隐匿处；筑巢, 找鸟巢；为...设窝, 使套叠",
+    "example": "A robin has built his nest in the apple tree.",
+    "exampleTranslation": "一只知更鸟在苹果树上筑了巢。",
+    "id": "word-459",
+    "frequencyRank": 459
+  },
+  {
+    "word": "passing",
+    "phonetic": "/'pæsiŋ/",
+    "translation": "通过, 逝去, 死, 流逝；经过的, 流逝的, 目前的, 短暂的, 及格的, 仓促的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-460",
+    "frequencyRank": 460
+  },
+  {
+    "word": "surrounding",
+    "phonetic": "/sә'raundiŋ/",
+    "translation": "环境；周围的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-461",
+    "frequencyRank": 461
+  },
+  {
+    "word": "swimming",
+    "phonetic": "/'swimiŋ/",
+    "translation": "游泳, 眩晕",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-462",
+    "frequencyRank": 462
+  },
+  {
+    "word": "breathing",
+    "phonetic": "/'bri:ðiŋ/",
+    "translation": "呼吸, 瞬间, 微风；呼吸的, 逼真的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-463",
+    "frequencyRank": 463
+  },
+  {
+    "word": "feather",
+    "phonetic": "/'feðә/",
+    "translation": "羽毛；长羽毛；用羽毛装饰",
+    "example": "Light he thought her, like a feather.",
+    "exampleTranslation": "他认为她很轻，像羽毛一样。",
+    "id": "word-464",
+    "frequencyRank": 464
+  },
+  {
+    "word": "dying",
+    "phonetic": "/'daiiŋ/",
+    "translation": "垂死的；[法] 快要死的, 垂死的, 临终的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-465",
+    "frequencyRank": 465
+  },
+  {
+    "word": "striking",
+    "phonetic": "/'straikiŋ/",
+    "translation": "醒目的, 惊人的, 打击的, 罢工的；[法] 罢工的, 罢市的, 罢课的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-466",
+    "frequencyRank": 466
+  },
+  {
+    "word": "awake",
+    "phonetic": "/ә'weik/",
+    "translation": "醒着的；唤醒, 唤起, 使意识到；醒来, 被唤起, 意识到",
+    "example": "I awoke early, dressed hastily, and went down to breakfast.",
+    "exampleTranslation": "我醒得很早，匆忙穿好衣服，下楼吃早餐。",
+    "id": "word-467",
+    "frequencyRank": 467
+  },
+  {
+    "word": "palace",
+    "phonetic": "/'pælis/",
+    "translation": "宫, 宫殿, 华丽大厦",
+    "example": "Directly opposite stands a wonderful palace.",
+    "exampleTranslation": "正对面矗立着一座奇妙的宫殿。",
+    "id": "word-468",
+    "frequencyRank": 468
+  },
+  {
+    "word": "dancing",
+    "phonetic": "/'dænsiŋ/",
+    "translation": "舞蹈；[建] 跳动的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-469",
+    "frequencyRank": 469
+  },
+  {
+    "word": "thread",
+    "phonetic": "/θred/",
+    "translation": "线, 丝, 纤维, 线索；穿线于, 穿过, 通过, 用线穿成；穿过",
+    "example": "The spool of thread rolled across the floor.",
+    "exampleTranslation": "线轴滚过地板。",
+    "id": "word-470",
+    "frequencyRank": 470
+  },
+  {
+    "word": "cottage",
+    "phonetic": "/'kɒtidʒ/",
+    "translation": "小屋, 茅舍",
+    "example": "I met a little cottage girl; she was eight years old, she said.",
+    "exampleTranslation": "我遇到了一个住小屋的小女孩；她说她八岁。",
+    "id": "word-471",
+    "frequencyRank": 471
+  },
+  {
+    "word": "disturbing",
+    "phonetic": "/dis'tә:biŋ/",
+    "translation": "引起烦恼的, 令人不安的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-472",
+    "frequencyRank": 472
+  },
+  {
+    "word": "brave",
+    "phonetic": "/breiv/",
+    "translation": "勇敢的, 美好的, 华丽的；勇敢者；勇敢地面对",
+    "example": "We are a brave people, and love our country.",
+    "exampleTranslation": "我们是勇敢的人民，热爱我们的国家。",
+    "id": "word-473",
+    "frequencyRank": 473
+  },
+  {
+    "word": "flying",
+    "phonetic": "/'flaiiŋ/",
+    "translation": "飞的, 飘扬的, 飞速的；飞行, 飞花",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-474",
+    "frequencyRank": 474
+  },
+  {
+    "word": "boring",
+    "phonetic": "/'bɒ:riŋ/",
+    "translation": "烦人的, 无聊的, 无趣的；[机] 成孔期, 搪孔",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-475",
+    "frequencyRank": 475
+  },
+  {
+    "word": "smoking",
+    "phonetic": "/'smәukiŋ/",
+    "translation": "抽烟, 冒烟；[医] 烟熏; 吸烟",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-476",
+    "frequencyRank": 476
+  },
+  {
+    "word": "faithful",
+    "phonetic": "/'feiθful/",
+    "translation": "忠实的, 详确的, 可靠的；信徒",
+    "example": "We consider them our faithful friends.",
+    "exampleTranslation": "我们认为他们是我们忠实的朋友。",
+    "id": "word-477",
+    "frequencyRank": 477
+  },
+  {
+    "word": "sailor",
+    "phonetic": "/'seilә/",
+    "translation": "水手, 船员, 海员；[法] 水手, 船员, 海员",
+    "example": "The little boy's father had once been a sailor.",
+    "exampleTranslation": "小男孩的父亲曾经是一名水手。",
+    "id": "word-478",
+    "frequencyRank": 478
+  },
+  {
+    "word": "gambling",
+    "phonetic": "/'gæmbliŋ/",
+    "translation": "赌博",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-479",
+    "frequencyRank": 479
+  },
+  {
+    "word": "satisfied",
+    "phonetic": "/'sætisfaiәd/",
+    "translation": "感到满意的",
+    "example": "Be satisfied with nothing but your best.",
+    "exampleTranslation": "除了做到最好，不要满足。",
+    "id": "word-480",
+    "frequencyRank": 480
+  },
+  {
+    "word": "farming",
+    "phonetic": "/'fɑ:miŋ/",
+    "translation": "农业, 耕作",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-481",
+    "frequencyRank": 481
+  },
+  {
+    "word": "ending",
+    "phonetic": "/'endiŋ/",
+    "translation": "终止, 终了, 收场；[医] 末梢",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-482",
+    "frequencyRank": 482
+  },
+  {
+    "word": "remains",
+    "phonetic": "/ri'meins/",
+    "translation": "剩余物, 废墟, 残余；[法] 遗体, 尸体, 遗骸",
+    "example": "In our climate the grass remains green all winter.",
+    "exampleTranslation": "在我们的气候中，草整个冬天都保持绿色。",
+    "id": "word-483",
+    "frequencyRank": 483
+  },
+  {
+    "word": "winning",
+    "phonetic": "/'winiŋ/",
+    "translation": "胜利, 获得, 成功, 赢得物；得胜的, 胜利的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-484",
+    "frequencyRank": 484
+  },
+  {
+    "word": "absent",
+    "phonetic": "/'æbsәnt/",
+    "translation": "缺席的, 不在的, 缺乏的, 漫不经心的；使缺席",
+    "example": "Do not laugh at me because I seem so absent minded.",
+    "exampleTranslation": "不要嘲笑我，因为我看起来心不在焉。",
+    "id": "word-485",
+    "frequencyRank": 485
+  },
+  {
+    "word": "frightening",
+    "phonetic": "/'fraitәniŋ/",
+    "translation": "令人恐惧的；引起突然惊恐的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-486",
+    "frequencyRank": 486
+  },
+  {
+    "word": "ashamed",
+    "phonetic": "/ә'ʃeimd/",
+    "translation": "惭愧的, 羞耻的",
+    "example": "I feel ashamed of myself.",
+    "exampleTranslation": "我为自己感到羞耻。",
+    "id": "word-487",
+    "frequencyRank": 487
+  },
+  {
+    "word": "embarrassing",
+    "phonetic": "/im'bærәsiŋ/",
+    "translation": "令人为难的, 麻烦的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-488",
+    "frequencyRank": 488
+  },
+  {
+    "word": "obey",
+    "phonetic": "/ә'bei/",
+    "translation": "服从, 遵从, 顺从；服从",
+    "example": "Madam, I will obey your command.",
+    "exampleTranslation": "夫人，我会服从您的命令。",
+    "id": "word-489",
+    "frequencyRank": 489
+  },
+  {
+    "word": "neatly",
+    "phonetic": "/'ni:tli/",
+    "translation": "整洁地, 干净地, 匀称地",
+    "example": "You must write more neatly.",
+    "exampleTranslation": "你必须写得更整洁。",
+    "id": "word-490",
+    "frequencyRank": 490
+  },
+  {
+    "word": "shocking",
+    "phonetic": "/'ʃɒkiŋ/",
+    "translation": "令人震惊的, 极坏的, 不正当的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-491",
+    "frequencyRank": 491
+  },
+  {
+    "word": "heating",
+    "phonetic": "/'hi:tiŋ/",
+    "translation": "加热, 供热, 暖气设备, 供暖系统, 暖气装置；加热的, 供暖的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-492",
+    "frequencyRank": 492
+  },
+  {
+    "word": "princess",
+    "phonetic": "/'prinsis/",
+    "translation": "公主, 王妃, 女巨头",
+    "example": "The dress of the little princess was embroidered with roses, the national flower of the Country.",
+    "exampleTranslation": "小公主的裙子上绣着玫瑰，这是该国的国花。",
+    "id": "word-493",
+    "frequencyRank": 493
+  },
+  {
+    "word": "moving",
+    "phonetic": "/'mu:viŋ/",
+    "translation": "动人的, 令人感动的, 鼓动的, 原动的, [无比较级]活动的, 转动的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-494",
+    "frequencyRank": 494
+  },
+  {
+    "word": "satisfying",
+    "phonetic": "/'sætisfaiiŋ/",
+    "translation": "满意的, 充分的, 足可相信的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-495",
+    "frequencyRank": 495
+  },
+  {
+    "word": "entertaining",
+    "phonetic": "/.entә'teiniŋ/",
+    "translation": "使人愉快的, 有趣的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-496",
+    "frequencyRank": 496
+  },
+  {
+    "word": "singing",
+    "phonetic": "/'siŋiŋ/",
+    "translation": "歌唱, 歌声；[计] 振鸣; 蜂鸣",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-497",
+    "frequencyRank": 497
+  },
+  {
+    "word": "opposing",
+    "phonetic": "/ә'pәuziŋ/",
+    "translation": "对面的, 反对的, 相反的, 相对的",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-498",
+    "frequencyRank": 498
+  },
+  {
+    "word": "matching",
+    "phonetic": "/'mætʃiŋ/",
+    "translation": "相同的, 协调的；[计] 匹配, 对比",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-499",
+    "frequencyRank": 499
+  },
+  {
+    "word": "publishing",
+    "phonetic": "/'pʌbliʃiŋ/",
+    "translation": "出版, 刊印, 发行",
+    "example": "I hurt myself.",
+    "exampleTranslation": "我伤到了自己。",
+    "id": "word-500",
+    "frequencyRank": 500
+  }
+]
+

@@ -44,3 +44,4 @@ React、TypeScript、vinext、Dexie（IndexedDB）与 `ts-fsrs`。项目面向 C
 ## 许可
 
 应用源码使用 [MIT License](./LICENSE)。第三方数据和依赖保留各自许可。
+
