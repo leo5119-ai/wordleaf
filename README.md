@@ -2,6 +2,12 @@
 
 WordLeaf 是一个英→中的英语电子闪卡 Web App。你可以从 500 个高频核心词中挑选想学的内容，再用 FSRS 安排复习。
 
+[在线体验 WordLeaf](https://wordleaf.pages.dev/)
+
+[![WordLeaf 项目效果图](./public/og.jpg)](https://wordleaf.pages.dev/)
+
+> 点击效果图即可打开在线版本。无需注册，学习记录只保存在当前浏览器中。
+
 ## 功能
 
 - 搜索、筛选、批量加入或移出学习计划
@@ -44,4 +50,3 @@ React、TypeScript、vinext、Dexie（IndexedDB）与 `ts-fsrs`，部署于 Clou
 ## 许可
 
 应用源码使用 [MIT License](./LICENSE)。第三方数据和依赖保留各自许可。
-
