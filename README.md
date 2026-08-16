@@ -39,7 +39,7 @@ npm run lint
 
 ## 技术栈
 
-React、TypeScript、vinext、Dexie（IndexedDB）与 `ts-fsrs`。项目面向 Codex Sites 构建，由 Cloudflare 承载。
+React、TypeScript、vinext、Dexie（IndexedDB）与 `ts-fsrs`，部署于 Cloudflare 基础设施。
 
 ## 许可
 
